@@ -1,0 +1,1217 @@
+CaseID,PatientID,PatientName,CHCName,DoctorName,DoctorSpecality,SymptomName,OtherSymptom,CaseLabel,CaseStartTime,CaseCompletedTime,Diagnosis,MedicineName,LabAdvice,Opinion
+0424ae3a-f08c-40a8-8ac5-8647c8dc304e,d2a2813f-4c62-4bf9-9eba-f4a16d0a17ff,Pat 1,PATHARDEWA CHC,Dr.Anil Kumar Dubey,General Medicine,Others,full bady pain,"fever,full bady pain",2/5/2022 8:54,2/5/2022 9:16, MALARIA AND ACHES AND AMOEB,CHLOROQUINE PHOSPHATE Tablet,NULL,NULL
+0424ae3a-f08c-40a8-8ac5-8647c8dc304e,d2a2813f-4c62-4bf9-9eba-f4a16d0a17ff,Pat 1,PATHARDEWA CHC,Dr.Anil Kumar Dubey,General Medicine,Others,full bady pain,"fever,full bady pain",2/5/2022 8:54,2/5/2022 9:16, MALARIA AND ACHES AND AMOEB,PARACETAMOL Tablet ,NULL,NULL
+0424ae3a-f08c-40a8-8ac5-8647c8dc304e,d2a2813f-4c62-4bf9-9eba-f4a16d0a17ff,Pat 1,PATHARDEWA CHC,Dr.Anil Kumar Dubey,General Medicine,Others,full bady pain,"fever,full bady pain",2/5/2022 8:54,2/5/2022 9:16, MALARIA AND ACHES AND AMOEB,METRONIDAZOLE Tablet ,NULL,NULL
+0424ae3a-f08c-40a8-8ac5-8647c8dc304e,d2a2813f-4c62-4bf9-9eba-f4a16d0a17ff,Pat 1,PATHARDEWA CHC,Dr.Anil Kumar Dubey,General Medicine,Others,full bady pain,"fever,full bady pain",2/5/2022 8:54,2/5/2022 9:16, MALARIA AND ACHES AND AMOEB,IBUPROFEN Tablet ,NULL,NULL
+0424ae3a-f08c-40a8-8ac5-8647c8dc304e,d2a2813f-4c62-4bf9-9eba-f4a16d0a17ff,Pat 1,PATHARDEWA CHC,Dr.Anil Kumar Dubey,General Medicine,Fever,,"fever,full bady pain",2/5/2022 8:54,2/5/2022 9:16, MALARIA AND ACHES AND AMOEB,CHLOROQUINE PHOSPHATE Tablet,NULL,NULL
+0424ae3a-f08c-40a8-8ac5-8647c8dc304e,d2a2813f-4c62-4bf9-9eba-f4a16d0a17ff,Pat 1,PATHARDEWA CHC,Dr.Anil Kumar Dubey,General Medicine,Fever,,"fever,full bady pain",2/5/2022 8:54,2/5/2022 9:16, MALARIA AND ACHES AND AMOEB,PARACETAMOL Tablet ,NULL,NULL
+0424ae3a-f08c-40a8-8ac5-8647c8dc304e,d2a2813f-4c62-4bf9-9eba-f4a16d0a17ff,Pat 1,PATHARDEWA CHC,Dr.Anil Kumar Dubey,General Medicine,Fever,,"fever,full bady pain",2/5/2022 8:54,2/5/2022 9:16, MALARIA AND ACHES AND AMOEB,METRONIDAZOLE Tablet ,NULL,NULL
+0424ae3a-f08c-40a8-8ac5-8647c8dc304e,d2a2813f-4c62-4bf9-9eba-f4a16d0a17ff,Pat 1,PATHARDEWA CHC,Dr.Anil Kumar Dubey,General Medicine,Fever,,"fever,full bady pain",2/5/2022 8:54,2/5/2022 9:16, MALARIA AND ACHES AND AMOEB,IBUPROFEN Tablet ,NULL,NULL
+011d7107-9544-4135-8ba0-2aadf574c8b6,b355083f-504e-4d09-8392-22d3c9b21965,Pat 2,KOPAGANJ CHC,Dr.Anil Kumar Dubey,General Medicine,Cough,,fever,1/20/2022 8:12,1/20/2022 8:31, R  I,ALBENDAZOLE Tablet,NULL,NULL
+011d7107-9544-4135-8ba0-2aadf574c8b6,b355083f-504e-4d09-8392-22d3c9b21965,Pat 2,KOPAGANJ CHC,Dr.Anil Kumar Dubey,General Medicine,Cough,,fever,1/20/2022 8:12,1/20/2022 8:31, R  I,LEVOFLOXACINE Tablet ,NULL,NULL
+047bf09d-8efe-4231-8294-2c201f26e314,3a63a251-1721-4b0d-8cc4-bc6d4da3e336,Pat 3,PARASPUR CHC,Dr.Anil Kumar Dubey,General Medicine,Cough,,cough  with  chest pain and chest varn  and acdity  from 1  month,6/10/2023 6:43,6/10/2023 8:55, R I,DOXYCYCLINE HYDROCHLORIDE Capsule Equivalent of,NULL,NULL
+047bf09d-8efe-4231-8294-2c201f26e314,3a63a251-1721-4b0d-8cc4-bc6d4da3e336,Pat 3,PARASPUR CHC,Dr.Anil Kumar Dubey,General Medicine,Cough,,cough  with  chest pain and chest varn  and acdity  from 1  month,6/10/2023 6:43,6/10/2023 8:55, R I,PARACETAMOL Tablet ,NULL,NULL
+047bf09d-8efe-4231-8294-2c201f26e314,3a63a251-1721-4b0d-8cc4-bc6d4da3e336,Pat 3,PARASPUR CHC,Dr.Anil Kumar Dubey,General Medicine,Cough,,cough  with  chest pain and chest varn  and acdity  from 1  month,6/10/2023 6:43,6/10/2023 8:55, R I,B Complex Tablet Vit B1 5mg Thiamine Hydrochloride Vitamin B2 5mg Riboflavin Vitamin B6 2 mg pyridoxine Hydrochloride vitamin B3 Nicotinamide 50 mg vitamin B5 calcium pantothenate 5 mg,NULL,NULL
+047bf09d-8efe-4231-8294-2c201f26e314,3a63a251-1721-4b0d-8cc4-bc6d4da3e336,Pat 3,PARASPUR CHC,Dr.Anil Kumar Dubey,General Medicine,Cough,,cough  with  chest pain and chest varn  and acdity  from 1  month,6/10/2023 6:43,6/10/2023 8:55, R I,ALBENDAZOLE Tablet,NULL,NULL
+047bf09d-8efe-4231-8294-2c201f26e314,3a63a251-1721-4b0d-8cc4-bc6d4da3e336,Pat 3,PARASPUR CHC,Dr.Anil Kumar Dubey,General Medicine,Cough,,cough  with  chest pain and chest varn  and acdity  from 1  month,6/10/2023 6:43,6/10/2023 8:55, R I,BETAMETHASONE Tablet ,NULL,NULL
+047bf09d-8efe-4231-8294-2c201f26e314,3a63a251-1721-4b0d-8cc4-bc6d4da3e336,Pat 3,PARASPUR CHC,Dr Prashant Gupta,Urology,Cough,,cough  with  chest pain and chest varn  and acdity  from 1  month,6/10/2023 6:43,6/10/2023 8:55, R I,DOXYCYCLINE HYDROCHLORIDE Capsule Equivalent of,NULL,NULL
+047bf09d-8efe-4231-8294-2c201f26e314,3a63a251-1721-4b0d-8cc4-bc6d4da3e336,Pat 3,PARASPUR CHC,Dr Prashant Gupta,Urology,Cough,,cough  with  chest pain and chest varn  and acdity  from 1  month,6/10/2023 6:43,6/10/2023 8:55, R I,PARACETAMOL Tablet ,NULL,NULL
+047bf09d-8efe-4231-8294-2c201f26e314,3a63a251-1721-4b0d-8cc4-bc6d4da3e336,Pat 3,PARASPUR CHC,Dr Prashant Gupta,Urology,Cough,,cough  with  chest pain and chest varn  and acdity  from 1  month,6/10/2023 6:43,6/10/2023 8:55, R I,B Complex Tablet Vit B1 5mg Thiamine Hydrochloride Vitamin B2 5mg Riboflavin Vitamin B6 2 mg pyridoxine Hydrochloride vitamin B3 Nicotinamide 50 mg vitamin B5 calcium pantothenate 5 mg,NULL,NULL
+047bf09d-8efe-4231-8294-2c201f26e314,3a63a251-1721-4b0d-8cc4-bc6d4da3e336,Pat 3,PARASPUR CHC,Dr Prashant Gupta,Urology,Cough,,cough  with  chest pain and chest varn  and acdity  from 1  month,6/10/2023 6:43,6/10/2023 8:55, R I,ALBENDAZOLE Tablet,NULL,NULL
+047bf09d-8efe-4231-8294-2c201f26e314,3a63a251-1721-4b0d-8cc4-bc6d4da3e336,Pat 3,PARASPUR CHC,Dr Prashant Gupta,Urology,Cough,,cough  with  chest pain and chest varn  and acdity  from 1  month,6/10/2023 6:43,6/10/2023 8:55, R I,BETAMETHASONE Tablet ,NULL,NULL
+014842d9-3944-42c3-908a-ac88e20a6c3c,ac5a1ae9-d194-4cd2-bf47-bfbcc17083f0,Pat 4,NATHNAGAR CHC,Dr.Deepak Parmar,General Medicine,Headache,,head pain,9/13/2021 5:33,9/13/2021 8:54, RI WITH H,PARACETAMOL Tablet ,NULL,NULL
+014842d9-3944-42c3-908a-ac88e20a6c3c,ac5a1ae9-d194-4cd2-bf47-bfbcc17083f0,Pat 4,NATHNAGAR CHC,Dr.Deepak Parmar,General Medicine,Headache,,head pain,9/13/2021 5:33,9/13/2021 8:54, RI WITH H,AZITHROMYCIN tablet ,NULL,NULL
+014842d9-3944-42c3-908a-ac88e20a6c3c,ac5a1ae9-d194-4cd2-bf47-bfbcc17083f0,Pat 4,NATHNAGAR CHC,Dr.Anil Kumar Dubey,General Medicine,Headache,,head pain,9/13/2021 5:33,9/13/2021 8:54, RI WITH H,PARACETAMOL Tablet ,NULL,NULL
+014842d9-3944-42c3-908a-ac88e20a6c3c,ac5a1ae9-d194-4cd2-bf47-bfbcc17083f0,Pat 4,NATHNAGAR CHC,Dr.Anil Kumar Dubey,General Medicine,Headache,,head pain,9/13/2021 5:33,9/13/2021 8:54, RI WITH H,AZITHROMYCIN tablet ,NULL,NULL
+01e701de-8c37-4921-b88b-46156576e5ee,82d2d2b6-f991-4dfc-9f16-3c6ed260c5d0,Pat 5,DUDAHI CHC,Dr.Pushpvardhan Mandlecha,Orthopaedics,Joint pain,,joint pain,6/27/2020 5:01,6/27/2020 5:09,Low BACK PAIN,Hot water fomentation ,NULL,"LOW BACK PAIN
+NON RADIAITNG
+H/O FALL
+FORWARD BENDING POSSINB;E"
+01e701de-8c37-4921-b88b-46156576e5ee,82d2d2b6-f991-4dfc-9f16-3c6ed260c5d0,Pat 5,DUDAHI CHC,Dr.Pushpvardhan Mandlecha,Orthopaedics,Joint pain,,joint pain,6/27/2020 5:01,6/27/2020 5:09,Low BACK PAIN,Tab Zerodol TH 8MG BD 5 DAYS,NULL,"LOW BACK PAIN
+NON RADIAITNG
+H/O FALL
+FORWARD BENDING POSSINB;E"
+01e701de-8c37-4921-b88b-46156576e5ee,82d2d2b6-f991-4dfc-9f16-3c6ed260c5d0,Pat 5,DUDAHI CHC,Dr.Pushpvardhan Mandlecha,Orthopaedics,Joint pain,,joint pain,6/27/2020 5:01,6/27/2020 5:09,Low BACK PAIN,tab dailyshine D3 60k WEEKLY,NULL,"LOW BACK PAIN
+NON RADIAITNG
+H/O FALL
+FORWARD BENDING POSSINB;E"
+01e701de-8c37-4921-b88b-46156576e5ee,82d2d2b6-f991-4dfc-9f16-3c6ed260c5d0,Pat 5,DUDAHI CHC,Dr.Pushpvardhan Mandlecha,Orthopaedics,Joint pain,,joint pain,6/27/2020 5:01,6/27/2020 5:09,Low BACK PAIN,TAB RABICIP 20 5 DAYS OD BBF,NULL,"LOW BACK PAIN
+NON RADIAITNG
+H/O FALL
+FORWARD BENDING POSSINB;E"
+01e701de-8c37-4921-b88b-46156576e5ee,82d2d2b6-f991-4dfc-9f16-3c6ed260c5d0,Pat 5,DUDAHI CHC,Dr.Pushpvardhan Mandlecha,Orthopaedics,Joint pain,,joint pain,6/27/2020 5:01,6/27/2020 5:09,Low BACK PAIN,SYSTAFLAM SPRAY,NULL,"LOW BACK PAIN
+NON RADIAITNG
+H/O FALL
+FORWARD BENDING POSSINB;E"
+01e701de-8c37-4921-b88b-46156576e5ee,82d2d2b6-f991-4dfc-9f16-3c6ed260c5d0,Pat 5,DUDAHI CHC,Dr.Pushpvardhan Mandlecha,Orthopaedics,Back pain,,joint pain,6/27/2020 5:01,6/27/2020 5:09,Low BACK PAIN,Hot water fomentation ,NULL,"LOW BACK PAIN
+NON RADIAITNG
+H/O FALL
+FORWARD BENDING POSSINB;E"
+01e701de-8c37-4921-b88b-46156576e5ee,82d2d2b6-f991-4dfc-9f16-3c6ed260c5d0,Pat 5,DUDAHI CHC,Dr.Pushpvardhan Mandlecha,Orthopaedics,Back pain,,joint pain,6/27/2020 5:01,6/27/2020 5:09,Low BACK PAIN,Tab Zerodol TH 8MG BD 5 DAYS,NULL,"LOW BACK PAIN
+NON RADIAITNG
+H/O FALL
+FORWARD BENDING POSSINB;E"
+01e701de-8c37-4921-b88b-46156576e5ee,82d2d2b6-f991-4dfc-9f16-3c6ed260c5d0,Pat 5,DUDAHI CHC,Dr.Pushpvardhan Mandlecha,Orthopaedics,Back pain,,joint pain,6/27/2020 5:01,6/27/2020 5:09,Low BACK PAIN,tab dailyshine D3 60k WEEKLY,NULL,"LOW BACK PAIN
+NON RADIAITNG
+H/O FALL
+FORWARD BENDING POSSINB;E"
+01e701de-8c37-4921-b88b-46156576e5ee,82d2d2b6-f991-4dfc-9f16-3c6ed260c5d0,Pat 5,DUDAHI CHC,Dr.Pushpvardhan Mandlecha,Orthopaedics,Back pain,,joint pain,6/27/2020 5:01,6/27/2020 5:09,Low BACK PAIN,TAB RABICIP 20 5 DAYS OD BBF,NULL,"LOW BACK PAIN
+NON RADIAITNG
+H/O FALL
+FORWARD BENDING POSSINB;E"
+01e701de-8c37-4921-b88b-46156576e5ee,82d2d2b6-f991-4dfc-9f16-3c6ed260c5d0,Pat 5,DUDAHI CHC,Dr.Pushpvardhan Mandlecha,Orthopaedics,Back pain,,joint pain,6/27/2020 5:01,6/27/2020 5:09,Low BACK PAIN,SYSTAFLAM SPRAY,NULL,"LOW BACK PAIN
+NON RADIAITNG
+H/O FALL
+FORWARD BENDING POSSINB;E"
+01e701de-8c37-4921-b88b-46156576e5ee,82d2d2b6-f991-4dfc-9f16-3c6ed260c5d0,Pat 5,DUDAHI CHC,Dr. Vivek Chandak,Orthopaedics,Joint pain,,joint pain,6/27/2020 5:01,6/27/2020 5:09,Low BACK PAIN,Hot water fomentation ,NULL,"LOW BACK PAIN
+NON RADIAITNG
+H/O FALL
+FORWARD BENDING POSSINB;E"
+01e701de-8c37-4921-b88b-46156576e5ee,82d2d2b6-f991-4dfc-9f16-3c6ed260c5d0,Pat 5,DUDAHI CHC,Dr. Vivek Chandak,Orthopaedics,Joint pain,,joint pain,6/27/2020 5:01,6/27/2020 5:09,Low BACK PAIN,Tab Zerodol TH 8MG BD 5 DAYS,NULL,"LOW BACK PAIN
+NON RADIAITNG
+H/O FALL
+FORWARD BENDING POSSINB;E"
+01e701de-8c37-4921-b88b-46156576e5ee,82d2d2b6-f991-4dfc-9f16-3c6ed260c5d0,Pat 5,DUDAHI CHC,Dr. Vivek Chandak,Orthopaedics,Joint pain,,joint pain,6/27/2020 5:01,6/27/2020 5:09,Low BACK PAIN,tab dailyshine D3 60k WEEKLY,NULL,"LOW BACK PAIN
+NON RADIAITNG
+H/O FALL
+FORWARD BENDING POSSINB;E"
+01e701de-8c37-4921-b88b-46156576e5ee,82d2d2b6-f991-4dfc-9f16-3c6ed260c5d0,Pat 5,DUDAHI CHC,Dr. Vivek Chandak,Orthopaedics,Joint pain,,joint pain,6/27/2020 5:01,6/27/2020 5:09,Low BACK PAIN,TAB RABICIP 20 5 DAYS OD BBF,NULL,"LOW BACK PAIN
+NON RADIAITNG
+H/O FALL
+FORWARD BENDING POSSINB;E"
+01e701de-8c37-4921-b88b-46156576e5ee,82d2d2b6-f991-4dfc-9f16-3c6ed260c5d0,Pat 5,DUDAHI CHC,Dr. Vivek Chandak,Orthopaedics,Joint pain,,joint pain,6/27/2020 5:01,6/27/2020 5:09,Low BACK PAIN,SYSTAFLAM SPRAY,NULL,"LOW BACK PAIN
+NON RADIAITNG
+H/O FALL
+FORWARD BENDING POSSINB;E"
+01e701de-8c37-4921-b88b-46156576e5ee,82d2d2b6-f991-4dfc-9f16-3c6ed260c5d0,Pat 5,DUDAHI CHC,Dr. Vivek Chandak,Orthopaedics,Back pain,,joint pain,6/27/2020 5:01,6/27/2020 5:09,Low BACK PAIN,Hot water fomentation ,NULL,"LOW BACK PAIN
+NON RADIAITNG
+H/O FALL
+FORWARD BENDING POSSINB;E"
+01e701de-8c37-4921-b88b-46156576e5ee,82d2d2b6-f991-4dfc-9f16-3c6ed260c5d0,Pat 5,DUDAHI CHC,Dr. Vivek Chandak,Orthopaedics,Back pain,,joint pain,6/27/2020 5:01,6/27/2020 5:09,Low BACK PAIN,Tab Zerodol TH 8MG BD 5 DAYS,NULL,"LOW BACK PAIN
+NON RADIAITNG
+H/O FALL
+FORWARD BENDING POSSINB;E"
+01e701de-8c37-4921-b88b-46156576e5ee,82d2d2b6-f991-4dfc-9f16-3c6ed260c5d0,Pat 5,DUDAHI CHC,Dr. Vivek Chandak,Orthopaedics,Back pain,,joint pain,6/27/2020 5:01,6/27/2020 5:09,Low BACK PAIN,tab dailyshine D3 60k WEEKLY,NULL,"LOW BACK PAIN
+NON RADIAITNG
+H/O FALL
+FORWARD BENDING POSSINB;E"
+01e701de-8c37-4921-b88b-46156576e5ee,82d2d2b6-f991-4dfc-9f16-3c6ed260c5d0,Pat 5,DUDAHI CHC,Dr. Vivek Chandak,Orthopaedics,Back pain,,joint pain,6/27/2020 5:01,6/27/2020 5:09,Low BACK PAIN,TAB RABICIP 20 5 DAYS OD BBF,NULL,"LOW BACK PAIN
+NON RADIAITNG
+H/O FALL
+FORWARD BENDING POSSINB;E"
+01e701de-8c37-4921-b88b-46156576e5ee,82d2d2b6-f991-4dfc-9f16-3c6ed260c5d0,Pat 5,DUDAHI CHC,Dr. Vivek Chandak,Orthopaedics,Back pain,,joint pain,6/27/2020 5:01,6/27/2020 5:09,Low BACK PAIN,SYSTAFLAM SPRAY,NULL,"LOW BACK PAIN
+NON RADIAITNG
+H/O FALL
+FORWARD BENDING POSSINB;E"
+027183d3-4c1b-4117-9918-c18b15a09ce2,09ab4c27-b169-4c73-8e75-b0350ebc1be7,Pat 6,BASANTPUR CHC,Dr.Nikhil Darak,General Medicine,Others,vomating,vomating,9/16/2021 6:44,9/16/2021 10:26,Acute gastritis with heel pain,PARACETAMOL Tablet ,USG  W/A,"Vomiting - 2-3 days
+Chakkar
+Heel pain"
+027183d3-4c1b-4117-9918-c18b15a09ce2,09ab4c27-b169-4c73-8e75-b0350ebc1be7,Pat 6,BASANTPUR CHC,Dr.Nikhil Darak,General Medicine,Others,vomating,vomating,9/16/2021 6:44,9/16/2021 10:26,Acute gastritis with heel pain,DICLOFENAC GEL Diclofenac Sodium,USG  W/A,"Vomiting - 2-3 days
+Chakkar
+Heel pain"
+027183d3-4c1b-4117-9918-c18b15a09ce2,09ab4c27-b169-4c73-8e75-b0350ebc1be7,Pat 6,BASANTPUR CHC,Dr.Nikhil Darak,General Medicine,Others,vomating,vomating,9/16/2021 6:44,9/16/2021 10:26,Acute gastritis with heel pain,Ranitidine Hydrochloride Tablet ,USG  W/A,"Vomiting - 2-3 days
+Chakkar
+Heel pain"
+027183d3-4c1b-4117-9918-c18b15a09ce2,09ab4c27-b169-4c73-8e75-b0350ebc1be7,Pat 6,BASANTPUR CHC,Dr.Nikhil Darak,General Medicine,Others,vomating,vomating,9/16/2021 6:44,9/16/2021 10:26,Acute gastritis with heel pain,CEFIXIME TRIHYDRATE Tablet,USG  W/A,"Vomiting - 2-3 days
+Chakkar
+Heel pain"
+027183d3-4c1b-4117-9918-c18b15a09ce2,09ab4c27-b169-4c73-8e75-b0350ebc1be7,Pat 6,BASANTPUR CHC,Dr.Nikhil Darak,General Medicine,Others,vomating,vomating,9/16/2021 6:44,9/16/2021 10:26,Acute gastritis with heel pain,B Complex Tablet Vit B1 5mg Thiamine Hydrochloride Vitamin B2 5mg Riboflavin Vitamin B6 2 mg pyridoxine Hydrochloride vitamin B3 Nicotinamide 50 mg vitamin B5 calcium pantothenate 5 mg,USG  W/A,"Vomiting - 2-3 days
+Chakkar
+Heel pain"
+027183d3-4c1b-4117-9918-c18b15a09ce2,09ab4c27-b169-4c73-8e75-b0350ebc1be7,Pat 6,BASANTPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,vomating,vomating,9/16/2021 6:44,9/16/2021 10:26,Acute gastritis with heel pain,PARACETAMOL Tablet ,USG  W/A,"Vomiting - 2-3 days
+Chakkar
+Heel pain"
+027183d3-4c1b-4117-9918-c18b15a09ce2,09ab4c27-b169-4c73-8e75-b0350ebc1be7,Pat 6,BASANTPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,vomating,vomating,9/16/2021 6:44,9/16/2021 10:26,Acute gastritis with heel pain,DICLOFENAC GEL Diclofenac Sodium,USG  W/A,"Vomiting - 2-3 days
+Chakkar
+Heel pain"
+027183d3-4c1b-4117-9918-c18b15a09ce2,09ab4c27-b169-4c73-8e75-b0350ebc1be7,Pat 6,BASANTPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,vomating,vomating,9/16/2021 6:44,9/16/2021 10:26,Acute gastritis with heel pain,Ranitidine Hydrochloride Tablet ,USG  W/A,"Vomiting - 2-3 days
+Chakkar
+Heel pain"
+027183d3-4c1b-4117-9918-c18b15a09ce2,09ab4c27-b169-4c73-8e75-b0350ebc1be7,Pat 6,BASANTPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,vomating,vomating,9/16/2021 6:44,9/16/2021 10:26,Acute gastritis with heel pain,CEFIXIME TRIHYDRATE Tablet,USG  W/A,"Vomiting - 2-3 days
+Chakkar
+Heel pain"
+027183d3-4c1b-4117-9918-c18b15a09ce2,09ab4c27-b169-4c73-8e75-b0350ebc1be7,Pat 6,BASANTPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,vomating,vomating,9/16/2021 6:44,9/16/2021 10:26,Acute gastritis with heel pain,B Complex Tablet Vit B1 5mg Thiamine Hydrochloride Vitamin B2 5mg Riboflavin Vitamin B6 2 mg pyridoxine Hydrochloride vitamin B3 Nicotinamide 50 mg vitamin B5 calcium pantothenate 5 mg,USG  W/A,"Vomiting - 2-3 days
+Chakkar
+Heel pain"
+016b7249-d879-4462-baca-d231392dd4b9,d6b57532-c90f-47f6-b81e-950f9b51964b,Pat 7,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,7/10/2020 6:52,7/10/2020 6:55,Acute lower back soft tissue injury,razo d,X ray LS Spine - AP/Lat,"Low back pain - 3 days
+B/l Lower limb radiculopathy
+Diff in walking
+Occ. tingling numbness"
+016b7249-d879-4462-baca-d231392dd4b9,d6b57532-c90f-47f6-b81e-950f9b51964b,Pat 7,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,7/10/2020 6:52,7/10/2020 6:55,Acute lower back soft tissue injury,volini gel l/A,X ray LS Spine - AP/Lat,"Low back pain - 3 days
+B/l Lower limb radiculopathy
+Diff in walking
+Occ. tingling numbness"
+016b7249-d879-4462-baca-d231392dd4b9,d6b57532-c90f-47f6-b81e-950f9b51964b,Pat 7,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,7/10/2020 6:52,7/10/2020 6:55,Acute lower back soft tissue injury,HOT FOMENTATION,X ray LS Spine - AP/Lat,"Low back pain - 3 days
+B/l Lower limb radiculopathy
+Diff in walking
+Occ. tingling numbness"
+016b7249-d879-4462-baca-d231392dd4b9,d6b57532-c90f-47f6-b81e-950f9b51964b,Pat 7,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,7/10/2020 6:52,7/10/2020 6:55,Acute lower back soft tissue injury,ZERODOL MR,X ray LS Spine - AP/Lat,"Low back pain - 3 days
+B/l Lower limb radiculopathy
+Diff in walking
+Occ. tingling numbness"
+016b7249-d879-4462-baca-d231392dd4b9,d6b57532-c90f-47f6-b81e-950f9b51964b,Pat 7,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,7/10/2020 6:52,7/10/2020 6:55,Acute lower back soft tissue injury,shelcal 500mg OD,X ray LS Spine - AP/Lat,"Low back pain - 3 days
+B/l Lower limb radiculopathy
+Diff in walking
+Occ. tingling numbness"
+016b7249-d879-4462-baca-d231392dd4b9,d6b57532-c90f-47f6-b81e-950f9b51964b,Pat 7,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,7/10/2020 6:52,7/10/2020 6:55,Acute lower back soft tissue injury,evion lc BD ,X ray LS Spine - AP/Lat,"Low back pain - 3 days
+B/l Lower limb radiculopathy
+Diff in walking
+Occ. tingling numbness"
+0445038d-34ae-40b0-a67f-cf8161db4bdf,0a8302b5-1a52-462d-a12d-f9724db68163,Pat 8,SEVARAHI CHC,Dr.Prince Kumar,General Medicine,Night cough,,COUGH ,12/5/2020 8:06,12/5/2020 8:12,Allergic rhinitis,Tab Azee500mg OD 5 days,"X ray PNS waters view
+ CHest X ray PA 
+CBC. ESR
+",NULL
+0445038d-34ae-40b0-a67f-cf8161db4bdf,0a8302b5-1a52-462d-a12d-f9724db68163,Pat 8,SEVARAHI CHC,Dr.Prince Kumar,General Medicine,Night cough,,COUGH ,12/5/2020 8:06,12/5/2020 8:12,Allergic rhinitis,Tab Montair_LC  HS FOR 5 DAYS,"X ray PNS waters view
+ CHest X ray PA 
+CBC. ESR
+",NULL
+0445038d-34ae-40b0-a67f-cf8161db4bdf,0a8302b5-1a52-462d-a12d-f9724db68163,Pat 8,SEVARAHI CHC,Dr.Prince Kumar,General Medicine,Night cough,,COUGH ,12/5/2020 8:06,12/5/2020 8:12,Allergic rhinitis,Steam inhalation BD,"X ray PNS waters view
+ CHest X ray PA 
+CBC. ESR
+",NULL
+04168d8d-74f5-411c-bb15-7f1e4f99bb07,2b643e59-f366-4b96-80c5-5b42144e3588,Pat 9,KHEJURI CHC,Dr.Aarti Chouhan,General Medicine,Others,nose problem,nose problem,12/4/2020 7:44,12/4/2020 7:54,Allergic rhinitis - chronic,NASOCLEAR SALINE DROPS 1 DROP 4 TIMES A DAY X 3 DAYS,NULL,NULL
+04168d8d-74f5-411c-bb15-7f1e4f99bb07,2b643e59-f366-4b96-80c5-5b42144e3588,Pat 9,KHEJURI CHC,Dr.Aarti Chouhan,General Medicine,Others,nose problem,nose problem,12/4/2020 7:44,12/4/2020 7:54,Allergic rhinitis - chronic,ent consultation,NULL,NULL
+04168d8d-74f5-411c-bb15-7f1e4f99bb07,2b643e59-f366-4b96-80c5-5b42144e3588,Pat 9,KHEJURI CHC,Dr.Aarti Chouhan,General Medicine,Others,nose problem,nose problem,12/4/2020 7:44,12/4/2020 7:54,Allergic rhinitis - chronic,steam inhalation twice  a day with karvol plus cap,NULL,NULL
+04168d8d-74f5-411c-bb15-7f1e4f99bb07,2b643e59-f366-4b96-80c5-5b42144e3588,Pat 9,KHEJURI CHC,Dr.Aarti Chouhan,General Medicine,Others,nose problem,nose problem,12/4/2020 7:44,12/4/2020 7:54,Allergic rhinitis - chronic,Nazomac AF nasal spray 1 spray each nostril BD,NULL,NULL
+04168d8d-74f5-411c-bb15-7f1e4f99bb07,2b643e59-f366-4b96-80c5-5b42144e3588,Pat 9,KHEJURI CHC,Dr.Aarti Chouhan,General Medicine,Others,nose problem,nose problem,12/4/2020 7:44,12/4/2020 7:54,Allergic rhinitis - chronic,MONTAIR LC HS FOR 5 DAYS,NULL,NULL
+04168d8d-74f5-411c-bb15-7f1e4f99bb07,2b643e59-f366-4b96-80c5-5b42144e3588,Pat 9,KHEJURI CHC,Dr.Prince Kumar,General Medicine,Others,nose problem,nose problem,12/4/2020 7:44,12/4/2020 7:54,Allergic rhinitis - chronic,NASOCLEAR SALINE DROPS 1 DROP 4 TIMES A DAY X 3 DAYS,NULL,NULL
+04168d8d-74f5-411c-bb15-7f1e4f99bb07,2b643e59-f366-4b96-80c5-5b42144e3588,Pat 9,KHEJURI CHC,Dr.Prince Kumar,General Medicine,Others,nose problem,nose problem,12/4/2020 7:44,12/4/2020 7:54,Allergic rhinitis - chronic,ent consultation,NULL,NULL
+04168d8d-74f5-411c-bb15-7f1e4f99bb07,2b643e59-f366-4b96-80c5-5b42144e3588,Pat 9,KHEJURI CHC,Dr.Prince Kumar,General Medicine,Others,nose problem,nose problem,12/4/2020 7:44,12/4/2020 7:54,Allergic rhinitis - chronic,steam inhalation twice  a day with karvol plus cap,NULL,NULL
+04168d8d-74f5-411c-bb15-7f1e4f99bb07,2b643e59-f366-4b96-80c5-5b42144e3588,Pat 9,KHEJURI CHC,Dr.Prince Kumar,General Medicine,Others,nose problem,nose problem,12/4/2020 7:44,12/4/2020 7:54,Allergic rhinitis - chronic,Nazomac AF nasal spray 1 spray each nostril BD,NULL,NULL
+04168d8d-74f5-411c-bb15-7f1e4f99bb07,2b643e59-f366-4b96-80c5-5b42144e3588,Pat 9,KHEJURI CHC,Dr.Prince Kumar,General Medicine,Others,nose problem,nose problem,12/4/2020 7:44,12/4/2020 7:54,Allergic rhinitis - chronic,MONTAIR LC HS FOR 5 DAYS,NULL,NULL
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Vinisha Chandra,General Medicine,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,etoshine mr 60mg BD,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Vinisha Chandra,General Medicine,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,hot fometation,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Vinisha Chandra,General Medicine,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,volitra gel,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Vinisha Chandra,General Medicine,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,razo d,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Vinisha Chandra,General Medicine,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,TENDOCARE ,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Vinisha Chandra,General Medicine,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,soft sole footwears SILICON,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Vinisha Chandra,General Medicine,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,chymoral br,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Vinisha Chandra,General Medicine,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,ANKLE ROM EXERCISE,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Vinisha Chandra,General Medicine,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,etoshine mr 60mg BD,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Vinisha Chandra,General Medicine,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,hot fometation,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Vinisha Chandra,General Medicine,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,volitra gel,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Vinisha Chandra,General Medicine,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,razo d,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Vinisha Chandra,General Medicine,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,TENDOCARE ,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Vinisha Chandra,General Medicine,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,soft sole footwears SILICON,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Vinisha Chandra,General Medicine,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,chymoral br,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Vinisha Chandra,General Medicine,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,ANKLE ROM EXERCISE,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr. Abhishek Maurya,General Medicine,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,etoshine mr 60mg BD,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr. Abhishek Maurya,General Medicine,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,hot fometation,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr. Abhishek Maurya,General Medicine,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,volitra gel,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr. Abhishek Maurya,General Medicine,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,razo d,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr. Abhishek Maurya,General Medicine,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,TENDOCARE ,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr. Abhishek Maurya,General Medicine,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,soft sole footwears SILICON,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr. Abhishek Maurya,General Medicine,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,chymoral br,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr. Abhishek Maurya,General Medicine,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,ANKLE ROM EXERCISE,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr. Abhishek Maurya,General Medicine,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,etoshine mr 60mg BD,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr. Abhishek Maurya,General Medicine,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,hot fometation,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr. Abhishek Maurya,General Medicine,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,volitra gel,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr. Abhishek Maurya,General Medicine,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,razo d,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr. Abhishek Maurya,General Medicine,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,TENDOCARE ,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr. Abhishek Maurya,General Medicine,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,soft sole footwears SILICON,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr. Abhishek Maurya,General Medicine,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,chymoral br,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr. Abhishek Maurya,General Medicine,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,ANKLE ROM EXERCISE,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,etoshine mr 60mg BD,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,hot fometation,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,volitra gel,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,razo d,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,TENDOCARE ,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,soft sole footwears SILICON,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,chymoral br,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Chest pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,ANKLE ROM EXERCISE,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,etoshine mr 60mg BD,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,hot fometation,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,volitra gel,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,razo d,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,TENDOCARE ,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,soft sole footwears SILICON,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,chymoral br,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+001e7db9-6e72-44b6-99db-818d80d27e60,512227e3-6329-46fd-a0ab-64ac78b716f2,Pat 10,NAWABGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Foot pain,,foot pain,10/12/2020 8:02,10/15/2020 5:20,Chest muscle  strain and B/l plantar fasciitis,ANKLE ROM EXERCISE,NULL,"Chest pain - 10-15 days
+B/l Foot pain - 1 month
+Pain more in morning"
+00f47684-66b2-4a3f-a117-3c724760f753,981c9c86-0e6c-44fd-9804-856daf000a0b,Pat 11,MUJEHNA CHC,Dr. Mohar Singh Uchariya,General Medicine,Cough,,COUGH,10/25/2019 4:18,10/25/2019 4:36,COPD WITH LRTI,Tab Augmentin-duo 1gm,"CBC,ESR, CXR P/A, SPUTUM AFB AND GRAM STAINING",NULL
+00f47684-66b2-4a3f-a117-3c724760f753,981c9c86-0e6c-44fd-9804-856daf000a0b,Pat 11,MUJEHNA CHC,Dr. Mohar Singh Uchariya,General Medicine,Cough,,COUGH,10/25/2019 4:18,10/25/2019 4:36,COPD WITH LRTI,tab rantec 150,"CBC,ESR, CXR P/A, SPUTUM AFB AND GRAM STAINING",NULL
+00f47684-66b2-4a3f-a117-3c724760f753,981c9c86-0e6c-44fd-9804-856daf000a0b,Pat 11,MUJEHNA CHC,Dr. Mohar Singh Uchariya,General Medicine,Cough,,COUGH,10/25/2019 4:18,10/25/2019 4:36,COPD WITH LRTI,tab montaiur lc ,"CBC,ESR, CXR P/A, SPUTUM AFB AND GRAM STAINING",NULL
+00f47684-66b2-4a3f-a117-3c724760f753,981c9c86-0e6c-44fd-9804-856daf000a0b,Pat 11,MUJEHNA CHC,Dr. Mohar Singh Uchariya,General Medicine,Cough,,COUGH,10/25/2019 4:18,10/25/2019 4:36,COPD WITH LRTI,R/C FORACORT 400 MG WITH ROTAHALER,"CBC,ESR, CXR P/A, SPUTUM AFB AND GRAM STAINING",NULL
+00f47684-66b2-4a3f-a117-3c724760f753,981c9c86-0e6c-44fd-9804-856daf000a0b,Pat 11,MUJEHNA CHC,Dr. Mohar Singh Uchariya,General Medicine,Cough,,COUGH,10/25/2019 4:18,10/25/2019 4:36,COPD WITH LRTI,R/C DUOLIN WITH ROTALAR ,"CBC,ESR, CXR P/A, SPUTUM AFB AND GRAM STAINING",NULL
+00f47684-66b2-4a3f-a117-3c724760f753,981c9c86-0e6c-44fd-9804-856daf000a0b,Pat 11,MUJEHNA CHC,Dr. Mohar Singh Uchariya,General Medicine,Cough,,COUGH,10/25/2019 4:18,10/25/2019 4:36,COPD WITH LRTI,Tab doxolin 400mg,"CBC,ESR, CXR P/A, SPUTUM AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Shortness of breath,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,Tab Augmentin-duo 625mg,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Shortness of breath,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,TAB DOXOLIN 400 BD,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Shortness of breath,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,SYP CODISTAR 10ml,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Shortness of breath,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,tab Montair-LC,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Shortness of breath,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,TREATMENT FOR 5 DAYS,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Shortness of breath,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,R/C FORACORT 400 MG WITH ROTAHALER,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Pain in the limbs,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,Tab Augmentin-duo 625mg,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Pain in the limbs,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,TAB DOXOLIN 400 BD,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Pain in the limbs,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,SYP CODISTAR 10ml,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Pain in the limbs,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,tab Montair-LC,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Pain in the limbs,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,TREATMENT FOR 5 DAYS,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Pain in the limbs,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,R/C FORACORT 400 MG WITH ROTAHALER,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Palpitations,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,Tab Augmentin-duo 625mg,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Palpitations,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,TAB DOXOLIN 400 BD,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Palpitations,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,SYP CODISTAR 10ml,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Palpitations,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,tab Montair-LC,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Palpitations,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,TREATMENT FOR 5 DAYS,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Palpitations,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,R/C FORACORT 400 MG WITH ROTAHALER,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Cough,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,Tab Augmentin-duo 625mg,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Cough,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,TAB DOXOLIN 400 BD,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Cough,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,SYP CODISTAR 10ml,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Cough,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,tab Montair-LC,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Cough,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,TREATMENT FOR 5 DAYS,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Cough,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,R/C FORACORT 400 MG WITH ROTAHALER,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Fever,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,Tab Augmentin-duo 625mg,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Fever,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,TAB DOXOLIN 400 BD,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Fever,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,SYP CODISTAR 10ml,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Fever,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,tab Montair-LC,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Fever,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,TREATMENT FOR 5 DAYS,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+018ae369-c426-45a3-a39f-330b7ae3f519,2feaf923-9911-4fd5-9415-6d68d758285f,Pat 12,JARWAL CHC,Dr. Mohar Singh Uchariya,General Medicine,Fever,,GEN. MED.,10/25/2019 5:41,10/25/2019 6:01,COPD WITH LRTI,R/C FORACORT 400 MG WITH ROTAHALER,"CBC, ESR, CXR P/A, SPUTUM FOR AFB AND GRAM STAINING",NULL
+024b9bf2-6f04-4eae-b55e-d4fd64d334a3,5febf548-4274-424e-87f7-84b6d02d6471,Pat 13,NEBUA NAURANGIA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,LBA,weakness,7/20/2021 8:09,7/20/2021 8:21,Low  back strain,Ranitidine Hydrochloride Tablet ,X ray LS Spine - AP/Lat,Low back pain - 1 month
+024b9bf2-6f04-4eae-b55e-d4fd64d334a3,5febf548-4274-424e-87f7-84b6d02d6471,Pat 13,NEBUA NAURANGIA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,LBA,weakness,7/20/2021 8:09,7/20/2021 8:21,Low  back strain,Calcium Citrate,X ray LS Spine - AP/Lat,Low back pain - 1 month
+024b9bf2-6f04-4eae-b55e-d4fd64d334a3,5febf548-4274-424e-87f7-84b6d02d6471,Pat 13,NEBUA NAURANGIA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,LBA,weakness,7/20/2021 8:09,7/20/2021 8:21,Low  back strain,PARACETAMOL Tablet ,X ray LS Spine - AP/Lat,Low back pain - 1 month
+024b9bf2-6f04-4eae-b55e-d4fd64d334a3,5febf548-4274-424e-87f7-84b6d02d6471,Pat 13,NEBUA NAURANGIA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,LBA,weakness,7/20/2021 8:09,7/20/2021 8:21,Low  back strain,DICLOFENAC GEL Diclofenac Sodium,X ray LS Spine - AP/Lat,Low back pain - 1 month
+024b9bf2-6f04-4eae-b55e-d4fd64d334a3,5febf548-4274-424e-87f7-84b6d02d6471,Pat 13,NEBUA NAURANGIA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,LBA,weakness,7/20/2021 8:09,7/20/2021 8:21,Low  back strain,IBUPROFEN Tablet ,X ray LS Spine - AP/Lat,Low back pain - 1 month
+03837b58-d982-43b9-a99b-25fc059191ba,5614be46-98d4-490b-a1bc-4d7374de7202,Pat 14,RAMKOLA CHC,Dr Prashant Gupta,Urology,Back pain,,back pain,6/13/2022 6:09,6/13/2022 7:25,Low back ache ,ad,"xray , dorsolumber spine , usg abdomen ",NULL
+03837b58-d982-43b9-a99b-25fc059191ba,5614be46-98d4-490b-a1bc-4d7374de7202,Pat 14,RAMKOLA CHC,Dr Prashant Gupta,Urology,Back pain,,back pain,6/13/2022 6:09,6/13/2022 7:25,Low back ache ,Tab Pantoprazole 40mg daily e/s for 7 days,"xray , dorsolumber spine , usg abdomen ",NULL
+00ea9322-3ad4-47c2-afcd-0ec6686dda9d,3dd02755-8f99-4a6b-8fc3-78dd4eef6bf7,Pat 15,DHANI CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,12/31/2020 6:51,12/31/2020 7:04,Low back and b/l knee strain ,evion lc BD ,NULL,"Low back pain - 20 days
+B/l knee Jt pain"
+00ea9322-3ad4-47c2-afcd-0ec6686dda9d,3dd02755-8f99-4a6b-8fc3-78dd4eef6bf7,Pat 15,DHANI CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,12/31/2020 6:51,12/31/2020 7:04,Low back and b/l knee strain ,razo d,NULL,"Low back pain - 20 days
+B/l knee Jt pain"
+00ea9322-3ad4-47c2-afcd-0ec6686dda9d,3dd02755-8f99-4a6b-8fc3-78dd4eef6bf7,Pat 15,DHANI CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,12/31/2020 6:51,12/31/2020 7:04,Low back and b/l knee strain ,hot fometation,NULL,"Low back pain - 20 days
+B/l knee Jt pain"
+00ea9322-3ad4-47c2-afcd-0ec6686dda9d,3dd02755-8f99-4a6b-8fc3-78dd4eef6bf7,Pat 15,DHANI CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,12/31/2020 6:51,12/31/2020 7:04,Low back and b/l knee strain ,Diclo gel for LA,NULL,"Low back pain - 20 days
+B/l knee Jt pain"
+00ea9322-3ad4-47c2-afcd-0ec6686dda9d,3dd02755-8f99-4a6b-8fc3-78dd4eef6bf7,Pat 15,DHANI CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,12/31/2020 6:51,12/31/2020 7:04,Low back and b/l knee strain ,etoshine mr 60mg BD,NULL,"Low back pain - 20 days
+B/l knee Jt pain"
+00ea9322-3ad4-47c2-afcd-0ec6686dda9d,3dd02755-8f99-4a6b-8fc3-78dd4eef6bf7,Pat 15,DHANI CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,12/31/2020 6:51,12/31/2020 7:04,Low back and b/l knee strain ,CALCIUM1 tab od,NULL,"Low back pain - 20 days
+B/l knee Jt pain"
+00ea9322-3ad4-47c2-afcd-0ec6686dda9d,3dd02755-8f99-4a6b-8fc3-78dd4eef6bf7,Pat 15,DHANI CHC,Dr. Brijendra Pratap Singh Bhadauria,Orthopaedics,Back pain,,back pain,12/31/2020 6:51,12/31/2020 7:04,Low back and b/l knee strain ,evion lc BD ,NULL,"Low back pain - 20 days
+B/l knee Jt pain"
+00ea9322-3ad4-47c2-afcd-0ec6686dda9d,3dd02755-8f99-4a6b-8fc3-78dd4eef6bf7,Pat 15,DHANI CHC,Dr. Brijendra Pratap Singh Bhadauria,Orthopaedics,Back pain,,back pain,12/31/2020 6:51,12/31/2020 7:04,Low back and b/l knee strain ,razo d,NULL,"Low back pain - 20 days
+B/l knee Jt pain"
+00ea9322-3ad4-47c2-afcd-0ec6686dda9d,3dd02755-8f99-4a6b-8fc3-78dd4eef6bf7,Pat 15,DHANI CHC,Dr. Brijendra Pratap Singh Bhadauria,Orthopaedics,Back pain,,back pain,12/31/2020 6:51,12/31/2020 7:04,Low back and b/l knee strain ,hot fometation,NULL,"Low back pain - 20 days
+B/l knee Jt pain"
+00ea9322-3ad4-47c2-afcd-0ec6686dda9d,3dd02755-8f99-4a6b-8fc3-78dd4eef6bf7,Pat 15,DHANI CHC,Dr. Brijendra Pratap Singh Bhadauria,Orthopaedics,Back pain,,back pain,12/31/2020 6:51,12/31/2020 7:04,Low back and b/l knee strain ,Diclo gel for LA,NULL,"Low back pain - 20 days
+B/l knee Jt pain"
+00ea9322-3ad4-47c2-afcd-0ec6686dda9d,3dd02755-8f99-4a6b-8fc3-78dd4eef6bf7,Pat 15,DHANI CHC,Dr. Brijendra Pratap Singh Bhadauria,Orthopaedics,Back pain,,back pain,12/31/2020 6:51,12/31/2020 7:04,Low back and b/l knee strain ,etoshine mr 60mg BD,NULL,"Low back pain - 20 days
+B/l knee Jt pain"
+00ea9322-3ad4-47c2-afcd-0ec6686dda9d,3dd02755-8f99-4a6b-8fc3-78dd4eef6bf7,Pat 15,DHANI CHC,Dr. Brijendra Pratap Singh Bhadauria,Orthopaedics,Back pain,,back pain,12/31/2020 6:51,12/31/2020 7:04,Low back and b/l knee strain ,CALCIUM1 tab od,NULL,"Low back pain - 20 days
+B/l knee Jt pain"
+017654ea-42c8-4c3f-985a-be0c617a5030,77cad2c3-a10e-44f9-84b8-3829fd5bd9bb,Pat 16,COLONELGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Joint pain,,Back pain from 1 month,10/31/2020 5:47,10/31/2020 5:52,Low back and b/l knee strain ,volitra gel,NULL,"Low back pain - 1 month
+B/l knee pain 
+Morning stiffness +
+No trauma"
+017654ea-42c8-4c3f-985a-be0c617a5030,77cad2c3-a10e-44f9-84b8-3829fd5bd9bb,Pat 16,COLONELGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Joint pain,,Back pain from 1 month,10/31/2020 5:47,10/31/2020 5:52,Low back and b/l knee strain ,hot fometation,NULL,"Low back pain - 1 month
+B/l knee pain 
+Morning stiffness +
+No trauma"
+017654ea-42c8-4c3f-985a-be0c617a5030,77cad2c3-a10e-44f9-84b8-3829fd5bd9bb,Pat 16,COLONELGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Joint pain,,Back pain from 1 month,10/31/2020 5:47,10/31/2020 5:52,Low back and b/l knee strain ,razo d,NULL,"Low back pain - 1 month
+B/l knee pain 
+Morning stiffness +
+No trauma"
+017654ea-42c8-4c3f-985a-be0c617a5030,77cad2c3-a10e-44f9-84b8-3829fd5bd9bb,Pat 16,COLONELGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Joint pain,,Back pain from 1 month,10/31/2020 5:47,10/31/2020 5:52,Low back and b/l knee strain ,evion lc BD ,NULL,"Low back pain - 1 month
+B/l knee pain 
+Morning stiffness +
+No trauma"
+017654ea-42c8-4c3f-985a-be0c617a5030,77cad2c3-a10e-44f9-84b8-3829fd5bd9bb,Pat 16,COLONELGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Joint pain,,Back pain from 1 month,10/31/2020 5:47,10/31/2020 5:52,Low back and b/l knee strain ,ZERODOL MR,NULL,"Low back pain - 1 month
+B/l knee pain 
+Morning stiffness +
+No trauma"
+017654ea-42c8-4c3f-985a-be0c617a5030,77cad2c3-a10e-44f9-84b8-3829fd5bd9bb,Pat 16,COLONELGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Joint pain,,Back pain from 1 month,10/31/2020 5:47,10/31/2020 5:52,Low back and b/l knee strain ,SHELCAL XT,NULL,"Low back pain - 1 month
+B/l knee pain 
+Morning stiffness +
+No trauma"
+01d8f738-3801-41fe-8033-1654bc5c220b,2eb1df9d-9e70-4dac-a783-32de85ce4bf7,Pat 17,KHALILABAD CHC,Dr.Varun Aggarwal,Orthopaedics,Others,Back pain,Back pain,9/13/2021 9:22,9/13/2021 9:41,Low back and B/l knee strain ,Ranitidine Hydrochloride Tablet ,NULL,"Low back pain 
+B/l knee pain - 1 month"
+01d8f738-3801-41fe-8033-1654bc5c220b,2eb1df9d-9e70-4dac-a783-32de85ce4bf7,Pat 17,KHALILABAD CHC,Dr.Varun Aggarwal,Orthopaedics,Others,Back pain,Back pain,9/13/2021 9:22,9/13/2021 9:41,Low back and B/l knee strain ,Calcium Citrate,NULL,"Low back pain 
+B/l knee pain - 1 month"
+01d8f738-3801-41fe-8033-1654bc5c220b,2eb1df9d-9e70-4dac-a783-32de85ce4bf7,Pat 17,KHALILABAD CHC,Dr.Varun Aggarwal,Orthopaedics,Others,Back pain,Back pain,9/13/2021 9:22,9/13/2021 9:41,Low back and B/l knee strain ,PARACETAMOL Tablet ,NULL,"Low back pain 
+B/l knee pain - 1 month"
+01d8f738-3801-41fe-8033-1654bc5c220b,2eb1df9d-9e70-4dac-a783-32de85ce4bf7,Pat 17,KHALILABAD CHC,Dr.Varun Aggarwal,Orthopaedics,Others,Back pain,Back pain,9/13/2021 9:22,9/13/2021 9:41,Low back and B/l knee strain ,IBUPROFEN Tablet ,NULL,"Low back pain 
+B/l knee pain - 1 month"
+01d8f738-3801-41fe-8033-1654bc5c220b,2eb1df9d-9e70-4dac-a783-32de85ce4bf7,Pat 17,KHALILABAD CHC,Dr.Varun Aggarwal,Orthopaedics,Others,Back pain,Back pain,9/13/2021 9:22,9/13/2021 9:41,Low back and B/l knee strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,"Low back pain 
+B/l knee pain - 1 month"
+01d8f738-3801-41fe-8033-1654bc5c220b,2eb1df9d-9e70-4dac-a783-32de85ce4bf7,Pat 17,KHALILABAD CHC,Dr.Pranav Mahajan,Orthopaedics,Others,Back pain,Back pain,9/13/2021 9:22,9/13/2021 9:41,Low back and B/l knee strain ,Ranitidine Hydrochloride Tablet ,NULL,"Low back pain 
+B/l knee pain - 1 month"
+01d8f738-3801-41fe-8033-1654bc5c220b,2eb1df9d-9e70-4dac-a783-32de85ce4bf7,Pat 17,KHALILABAD CHC,Dr.Pranav Mahajan,Orthopaedics,Others,Back pain,Back pain,9/13/2021 9:22,9/13/2021 9:41,Low back and B/l knee strain ,Calcium Citrate,NULL,"Low back pain 
+B/l knee pain - 1 month"
+01d8f738-3801-41fe-8033-1654bc5c220b,2eb1df9d-9e70-4dac-a783-32de85ce4bf7,Pat 17,KHALILABAD CHC,Dr.Pranav Mahajan,Orthopaedics,Others,Back pain,Back pain,9/13/2021 9:22,9/13/2021 9:41,Low back and B/l knee strain ,PARACETAMOL Tablet ,NULL,"Low back pain 
+B/l knee pain - 1 month"
+01d8f738-3801-41fe-8033-1654bc5c220b,2eb1df9d-9e70-4dac-a783-32de85ce4bf7,Pat 17,KHALILABAD CHC,Dr.Pranav Mahajan,Orthopaedics,Others,Back pain,Back pain,9/13/2021 9:22,9/13/2021 9:41,Low back and B/l knee strain ,IBUPROFEN Tablet ,NULL,"Low back pain 
+B/l knee pain - 1 month"
+01d8f738-3801-41fe-8033-1654bc5c220b,2eb1df9d-9e70-4dac-a783-32de85ce4bf7,Pat 17,KHALILABAD CHC,Dr.Pranav Mahajan,Orthopaedics,Others,Back pain,Back pain,9/13/2021 9:22,9/13/2021 9:41,Low back and B/l knee strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,"Low back pain 
+B/l knee pain - 1 month"
+04af5463-9194-49a0-a134-cfebd67e45a2,df65574d-3e88-4f8f-97da-0242c7bd0333,Pat 18,SISWA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,knee pain and back pain 1 months problem,10/26/2021 8:48,10/26/2021 9:00,Low back and b/l knee strain ,IBUPROFEN Tablet ,NULL,"LBA
+B/l knee pain - 1 month"
+04af5463-9194-49a0-a134-cfebd67e45a2,df65574d-3e88-4f8f-97da-0242c7bd0333,Pat 18,SISWA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,knee pain and back pain 1 months problem,10/26/2021 8:48,10/26/2021 9:00,Low back and b/l knee strain ,Ranitidine Hydrochloride Tablet ,NULL,"LBA
+B/l knee pain - 1 month"
+04af5463-9194-49a0-a134-cfebd67e45a2,df65574d-3e88-4f8f-97da-0242c7bd0333,Pat 18,SISWA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,knee pain and back pain 1 months problem,10/26/2021 8:48,10/26/2021 9:00,Low back and b/l knee strain ,Calcium Citrate,NULL,"LBA
+B/l knee pain - 1 month"
+04af5463-9194-49a0-a134-cfebd67e45a2,df65574d-3e88-4f8f-97da-0242c7bd0333,Pat 18,SISWA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,knee pain and back pain 1 months problem,10/26/2021 8:48,10/26/2021 9:00,Low back and b/l knee strain ,DICLOFENAC SODIUM SR Tablet ,NULL,"LBA
+B/l knee pain - 1 month"
+04af5463-9194-49a0-a134-cfebd67e45a2,df65574d-3e88-4f8f-97da-0242c7bd0333,Pat 18,SISWA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,knee pain and back pain 1 months problem,10/26/2021 8:48,10/26/2021 9:00,Low back and b/l knee strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,"LBA
+B/l knee pain - 1 month"
+04af5463-9194-49a0-a134-cfebd67e45a2,df65574d-3e88-4f8f-97da-0242c7bd0333,Pat 18,SISWA CHC,Dr.Pranav Mahajan,Orthopaedics,Knee pain,,knee pain and back pain 1 months problem,10/26/2021 8:48,10/26/2021 9:00,Low back and b/l knee strain ,IBUPROFEN Tablet ,NULL,"LBA
+B/l knee pain - 1 month"
+04af5463-9194-49a0-a134-cfebd67e45a2,df65574d-3e88-4f8f-97da-0242c7bd0333,Pat 18,SISWA CHC,Dr.Pranav Mahajan,Orthopaedics,Knee pain,,knee pain and back pain 1 months problem,10/26/2021 8:48,10/26/2021 9:00,Low back and b/l knee strain ,Ranitidine Hydrochloride Tablet ,NULL,"LBA
+B/l knee pain - 1 month"
+04af5463-9194-49a0-a134-cfebd67e45a2,df65574d-3e88-4f8f-97da-0242c7bd0333,Pat 18,SISWA CHC,Dr.Pranav Mahajan,Orthopaedics,Knee pain,,knee pain and back pain 1 months problem,10/26/2021 8:48,10/26/2021 9:00,Low back and b/l knee strain ,Calcium Citrate,NULL,"LBA
+B/l knee pain - 1 month"
+04af5463-9194-49a0-a134-cfebd67e45a2,df65574d-3e88-4f8f-97da-0242c7bd0333,Pat 18,SISWA CHC,Dr.Pranav Mahajan,Orthopaedics,Knee pain,,knee pain and back pain 1 months problem,10/26/2021 8:48,10/26/2021 9:00,Low back and b/l knee strain ,DICLOFENAC SODIUM SR Tablet ,NULL,"LBA
+B/l knee pain - 1 month"
+04af5463-9194-49a0-a134-cfebd67e45a2,df65574d-3e88-4f8f-97da-0242c7bd0333,Pat 18,SISWA CHC,Dr.Pranav Mahajan,Orthopaedics,Knee pain,,knee pain and back pain 1 months problem,10/26/2021 8:48,10/26/2021 9:00,Low back and b/l knee strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,"LBA
+B/l knee pain - 1 month"
+0284fc50-9fc7-420c-8b32-8f4fb652a04d,cad4370e-e32e-4658-8c88-892e366dfddd,Pat 19,SHOHRATGARH CHC,Dr.Pranav Mahajan,Orthopaedics,Knee pain,,"knee pain , waist pain",12/11/2020 6:04,12/11/2020 6:09,Low back and b/l knee strain ? OA,dfo gel L/a ,NULL,"Low back pain - 4 yrs
+Knee pain - 4 yrs
+Diff in walking"
+0284fc50-9fc7-420c-8b32-8f4fb652a04d,cad4370e-e32e-4658-8c88-892e366dfddd,Pat 19,SHOHRATGARH CHC,Dr.Pranav Mahajan,Orthopaedics,Knee pain,,"knee pain , waist pain",12/11/2020 6:04,12/11/2020 6:09,Low back and b/l knee strain ? OA,SHELCAL XT,NULL,"Low back pain - 4 yrs
+Knee pain - 4 yrs
+Diff in walking"
+0284fc50-9fc7-420c-8b32-8f4fb652a04d,cad4370e-e32e-4658-8c88-892e366dfddd,Pat 19,SHOHRATGARH CHC,Dr.Pranav Mahajan,Orthopaedics,Knee pain,,"knee pain , waist pain",12/11/2020 6:04,12/11/2020 6:09,Low back and b/l knee strain ? OA,evion lc BD ,NULL,"Low back pain - 4 yrs
+Knee pain - 4 yrs
+Diff in walking"
+0284fc50-9fc7-420c-8b32-8f4fb652a04d,cad4370e-e32e-4658-8c88-892e366dfddd,Pat 19,SHOHRATGARH CHC,Dr.Pranav Mahajan,Orthopaedics,Knee pain,,"knee pain , waist pain",12/11/2020 6:04,12/11/2020 6:09,Low back and b/l knee strain ? OA,hot fometation,NULL,"Low back pain - 4 yrs
+Knee pain - 4 yrs
+Diff in walking"
+0284fc50-9fc7-420c-8b32-8f4fb652a04d,cad4370e-e32e-4658-8c88-892e366dfddd,Pat 19,SHOHRATGARH CHC,Dr.Pranav Mahajan,Orthopaedics,Knee pain,,"knee pain , waist pain",12/11/2020 6:04,12/11/2020 6:09,Low back and b/l knee strain ? OA,Zerodol mr 1 bd,NULL,"Low back pain - 4 yrs
+Knee pain - 4 yrs
+Diff in walking"
+0284fc50-9fc7-420c-8b32-8f4fb652a04d,cad4370e-e32e-4658-8c88-892e366dfddd,Pat 19,SHOHRATGARH CHC,Dr.Pranav Mahajan,Orthopaedics,Knee pain,,"knee pain , waist pain",12/11/2020 6:04,12/11/2020 6:09,Low back and b/l knee strain ? OA,razo d,NULL,"Low back pain - 4 yrs
+Knee pain - 4 yrs
+Diff in walking"
+0284fc50-9fc7-420c-8b32-8f4fb652a04d,cad4370e-e32e-4658-8c88-892e366dfddd,Pat 19,SHOHRATGARH CHC,Dr.Pranav Mahajan,Orthopaedics,Others,waist pain,"knee pain , waist pain",12/11/2020 6:04,12/11/2020 6:09,Low back and b/l knee strain ? OA,dfo gel L/a ,NULL,"Low back pain - 4 yrs
+Knee pain - 4 yrs
+Diff in walking"
+0284fc50-9fc7-420c-8b32-8f4fb652a04d,cad4370e-e32e-4658-8c88-892e366dfddd,Pat 19,SHOHRATGARH CHC,Dr.Pranav Mahajan,Orthopaedics,Others,waist pain,"knee pain , waist pain",12/11/2020 6:04,12/11/2020 6:09,Low back and b/l knee strain ? OA,SHELCAL XT,NULL,"Low back pain - 4 yrs
+Knee pain - 4 yrs
+Diff in walking"
+0284fc50-9fc7-420c-8b32-8f4fb652a04d,cad4370e-e32e-4658-8c88-892e366dfddd,Pat 19,SHOHRATGARH CHC,Dr.Pranav Mahajan,Orthopaedics,Others,waist pain,"knee pain , waist pain",12/11/2020 6:04,12/11/2020 6:09,Low back and b/l knee strain ? OA,evion lc BD ,NULL,"Low back pain - 4 yrs
+Knee pain - 4 yrs
+Diff in walking"
+0284fc50-9fc7-420c-8b32-8f4fb652a04d,cad4370e-e32e-4658-8c88-892e366dfddd,Pat 19,SHOHRATGARH CHC,Dr.Pranav Mahajan,Orthopaedics,Others,waist pain,"knee pain , waist pain",12/11/2020 6:04,12/11/2020 6:09,Low back and b/l knee strain ? OA,hot fometation,NULL,"Low back pain - 4 yrs
+Knee pain - 4 yrs
+Diff in walking"
+0284fc50-9fc7-420c-8b32-8f4fb652a04d,cad4370e-e32e-4658-8c88-892e366dfddd,Pat 19,SHOHRATGARH CHC,Dr.Pranav Mahajan,Orthopaedics,Others,waist pain,"knee pain , waist pain",12/11/2020 6:04,12/11/2020 6:09,Low back and b/l knee strain ? OA,Zerodol mr 1 bd,NULL,"Low back pain - 4 yrs
+Knee pain - 4 yrs
+Diff in walking"
+0284fc50-9fc7-420c-8b32-8f4fb652a04d,cad4370e-e32e-4658-8c88-892e366dfddd,Pat 19,SHOHRATGARH CHC,Dr.Pranav Mahajan,Orthopaedics,Others,waist pain,"knee pain , waist pain",12/11/2020 6:04,12/11/2020 6:09,Low back and b/l knee strain ? OA,razo d,NULL,"Low back pain - 4 yrs
+Knee pain - 4 yrs
+Diff in walking"
+04b54efe-72d8-485e-9979-25ebb5d9a3c2,562afee4-2ce8-4ac8-865a-c64cd6e3b7c4,Pat 20,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,10/5/2020 5:58,10/5/2020 6:30,Low back and knee strain ,HOT FOMENTATION,NULL,"Low back pain - 5 days
+B/l knee pain - 5 days
+No trauma"
+04b54efe-72d8-485e-9979-25ebb5d9a3c2,562afee4-2ce8-4ac8-865a-c64cd6e3b7c4,Pat 20,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,10/5/2020 5:58,10/5/2020 6:30,Low back and knee strain ,SHELCAL XT,NULL,"Low back pain - 5 days
+B/l knee pain - 5 days
+No trauma"
+04b54efe-72d8-485e-9979-25ebb5d9a3c2,562afee4-2ce8-4ac8-865a-c64cd6e3b7c4,Pat 20,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,10/5/2020 5:58,10/5/2020 6:30,Low back and knee strain ,razo d,NULL,"Low back pain - 5 days
+B/l knee pain - 5 days
+No trauma"
+04b54efe-72d8-485e-9979-25ebb5d9a3c2,562afee4-2ce8-4ac8-865a-c64cd6e3b7c4,Pat 20,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,10/5/2020 5:58,10/5/2020 6:30,Low back and knee strain ,evion lc BD ,NULL,"Low back pain - 5 days
+B/l knee pain - 5 days
+No trauma"
+04b54efe-72d8-485e-9979-25ebb5d9a3c2,562afee4-2ce8-4ac8-865a-c64cd6e3b7c4,Pat 20,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,10/5/2020 5:58,10/5/2020 6:30,Low back and knee strain ,etoshine mr 60mg BD,NULL,"Low back pain - 5 days
+B/l knee pain - 5 days
+No trauma"
+04b54efe-72d8-485e-9979-25ebb5d9a3c2,562afee4-2ce8-4ac8-865a-c64cd6e3b7c4,Pat 20,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,10/5/2020 5:58,10/5/2020 6:30,Low back and knee strain ,volitra gel,NULL,"Low back pain - 5 days
+B/l knee pain - 5 days
+No trauma"
+025dc721-d880-484c-b83b-62794e249ea2,6c261a8f-453f-4173-9647-3cfbde9242d9,Pat 21,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain ,11/3/2020 6:08,11/3/2020 6:11,Low back muscle spasm,razo d,NULL,"Low back pain - 3 days
+NO trauma"
+025dc721-d880-484c-b83b-62794e249ea2,6c261a8f-453f-4173-9647-3cfbde9242d9,Pat 21,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain ,11/3/2020 6:08,11/3/2020 6:11,Low back muscle spasm,hot fometation,NULL,"Low back pain - 3 days
+NO trauma"
+025dc721-d880-484c-b83b-62794e249ea2,6c261a8f-453f-4173-9647-3cfbde9242d9,Pat 21,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain ,11/3/2020 6:08,11/3/2020 6:11,Low back muscle spasm,volitra gel,NULL,"Low back pain - 3 days
+NO trauma"
+025dc721-d880-484c-b83b-62794e249ea2,6c261a8f-453f-4173-9647-3cfbde9242d9,Pat 21,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain ,11/3/2020 6:08,11/3/2020 6:11,Low back muscle spasm,ZERODOL MR,NULL,"Low back pain - 3 days
+NO trauma"
+02900569-a700-4cce-bb1b-5999a9107a0f,9d91179c-eac4-449e-b18f-a05c928f9860,Pat 22,PHARENDA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain last 2 month,9/22/2020 7:04,9/22/2020 7:10,Low back muscle spasm,razo d,NULL,"Low back pain - 2 months
+No trauma"
+02900569-a700-4cce-bb1b-5999a9107a0f,9d91179c-eac4-449e-b18f-a05c928f9860,Pat 22,PHARENDA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain last 2 month,9/22/2020 7:04,9/22/2020 7:10,Low back muscle spasm,evion lc BD ,NULL,"Low back pain - 2 months
+No trauma"
+02900569-a700-4cce-bb1b-5999a9107a0f,9d91179c-eac4-449e-b18f-a05c928f9860,Pat 22,PHARENDA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain last 2 month,9/22/2020 7:04,9/22/2020 7:10,Low back muscle spasm,HOT FOMENTATION,NULL,"Low back pain - 2 months
+No trauma"
+02900569-a700-4cce-bb1b-5999a9107a0f,9d91179c-eac4-449e-b18f-a05c928f9860,Pat 22,PHARENDA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain last 2 month,9/22/2020 7:04,9/22/2020 7:10,Low back muscle spasm,ZERODOL MR,NULL,"Low back pain - 2 months
+No trauma"
+02900569-a700-4cce-bb1b-5999a9107a0f,9d91179c-eac4-449e-b18f-a05c928f9860,Pat 22,PHARENDA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain last 2 month,9/22/2020 7:04,9/22/2020 7:10,Low back muscle spasm,SHELCAL XT,NULL,"Low back pain - 2 months
+No trauma"
+02900569-a700-4cce-bb1b-5999a9107a0f,9d91179c-eac4-449e-b18f-a05c928f9860,Pat 22,PHARENDA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain last 2 month,9/22/2020 7:04,9/22/2020 7:10,Low back muscle spasm,volitra gel,NULL,"Low back pain - 2 months
+No trauma"
+03cd3032-8086-4c56-bbf1-14e3643717ea,12059c2a-c34d-42ad-a220-7bbd08d6c3b3,Pat 23,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain  ,10/3/2020 7:22,10/3/2020 7:58,Low back muscle spasm,HOT FOMENTATION,NULL,Low back pain - 7 days
+03cd3032-8086-4c56-bbf1-14e3643717ea,12059c2a-c34d-42ad-a220-7bbd08d6c3b3,Pat 23,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain  ,10/3/2020 7:22,10/3/2020 7:58,Low back muscle spasm,SHELCAL XT,NULL,Low back pain - 7 days
+03cd3032-8086-4c56-bbf1-14e3643717ea,12059c2a-c34d-42ad-a220-7bbd08d6c3b3,Pat 23,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain  ,10/3/2020 7:22,10/3/2020 7:58,Low back muscle spasm,evion lc BD ,NULL,Low back pain - 7 days
+03cd3032-8086-4c56-bbf1-14e3643717ea,12059c2a-c34d-42ad-a220-7bbd08d6c3b3,Pat 23,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain  ,10/3/2020 7:22,10/3/2020 7:58,Low back muscle spasm,ZERODOL MR,NULL,Low back pain - 7 days
+03cd3032-8086-4c56-bbf1-14e3643717ea,12059c2a-c34d-42ad-a220-7bbd08d6c3b3,Pat 23,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain  ,10/3/2020 7:22,10/3/2020 7:58,Low back muscle spasm,volitra gel,NULL,Low back pain - 7 days
+03cd3032-8086-4c56-bbf1-14e3643717ea,12059c2a-c34d-42ad-a220-7bbd08d6c3b3,Pat 23,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain  ,10/3/2020 7:22,10/3/2020 7:58,Low back muscle spasm,razo d,NULL,Low back pain - 7 days
+05061df7-f45c-4afb-96f8-67dce0958b08,5550be9d-df75-47d8-b316-d1c603675475,Pat 24,FATEHPUR MANDAW CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK PAIN,BACK PAIN,10/26/2020 5:43,10/26/2020 8:25,Low back muscle spasm,volitra gel,NULL,"Low back pain - 3 days
+NO trauma"
+05061df7-f45c-4afb-96f8-67dce0958b08,5550be9d-df75-47d8-b316-d1c603675475,Pat 24,FATEHPUR MANDAW CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK PAIN,BACK PAIN,10/26/2020 5:43,10/26/2020 8:25,Low back muscle spasm,etoshine mr 60mg BD,NULL,"Low back pain - 3 days
+NO trauma"
+05061df7-f45c-4afb-96f8-67dce0958b08,5550be9d-df75-47d8-b316-d1c603675475,Pat 24,FATEHPUR MANDAW CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK PAIN,BACK PAIN,10/26/2020 5:43,10/26/2020 8:25,Low back muscle spasm,hot fometation,NULL,"Low back pain - 3 days
+NO trauma"
+05061df7-f45c-4afb-96f8-67dce0958b08,5550be9d-df75-47d8-b316-d1c603675475,Pat 24,FATEHPUR MANDAW CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK PAIN,BACK PAIN,10/26/2020 5:43,10/26/2020 8:25,Low back muscle spasm,razo d,NULL,"Low back pain - 3 days
+NO trauma"
+01409f6c-7ea8-4aa6-ac12-ff2f35dcbff4,fe34cee7-4956-4305-ba2b-13d5b7d791ac,Pat 24,SEEYAR CHC,Dr.Pushpvardhan Mandlecha,Orthopaedics,Back pain,,BACK PAIN,9/28/2020 8:03,9/29/2020 6:07,Low back muscle strain,razo d,NULL,"Low back pain - 1 month
+No trauma"
+01409f6c-7ea8-4aa6-ac12-ff2f35dcbff4,fe34cee7-4956-4305-ba2b-13d5b7d791ac,Pat 24,SEEYAR CHC,Dr.Pushpvardhan Mandlecha,Orthopaedics,Back pain,,BACK PAIN,9/28/2020 8:03,9/29/2020 6:07,Low back muscle strain,SHELCAL XT,NULL,"Low back pain - 1 month
+No trauma"
+01409f6c-7ea8-4aa6-ac12-ff2f35dcbff4,fe34cee7-4956-4305-ba2b-13d5b7d791ac,Pat 24,SEEYAR CHC,Dr.Pushpvardhan Mandlecha,Orthopaedics,Back pain,,BACK PAIN,9/28/2020 8:03,9/29/2020 6:07,Low back muscle strain,LS BELT,NULL,"Low back pain - 1 month
+No trauma"
+01409f6c-7ea8-4aa6-ac12-ff2f35dcbff4,fe34cee7-4956-4305-ba2b-13d5b7d791ac,Pat 24,SEEYAR CHC,Dr.Pushpvardhan Mandlecha,Orthopaedics,Back pain,,BACK PAIN,9/28/2020 8:03,9/29/2020 6:07,Low back muscle strain,volitra gel,NULL,"Low back pain - 1 month
+No trauma"
+01409f6c-7ea8-4aa6-ac12-ff2f35dcbff4,fe34cee7-4956-4305-ba2b-13d5b7d791ac,Pat 24,SEEYAR CHC,Dr.Pushpvardhan Mandlecha,Orthopaedics,Back pain,,BACK PAIN,9/28/2020 8:03,9/29/2020 6:07,Low back muscle strain,HOT FOMENTATION,NULL,"Low back pain - 1 month
+No trauma"
+01409f6c-7ea8-4aa6-ac12-ff2f35dcbff4,fe34cee7-4956-4305-ba2b-13d5b7d791ac,Pat 24,SEEYAR CHC,Dr.Pushpvardhan Mandlecha,Orthopaedics,Back pain,,BACK PAIN,9/28/2020 8:03,9/29/2020 6:07,Low back muscle strain,zerodol th 4mg1bd,NULL,"Low back pain - 1 month
+No trauma"
+01409f6c-7ea8-4aa6-ac12-ff2f35dcbff4,fe34cee7-4956-4305-ba2b-13d5b7d791ac,Pat 24,SEEYAR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,9/28/2020 8:03,9/29/2020 6:07,Low back muscle strain,razo d,NULL,"Low back pain - 1 month
+No trauma"
+01409f6c-7ea8-4aa6-ac12-ff2f35dcbff4,fe34cee7-4956-4305-ba2b-13d5b7d791ac,Pat 24,SEEYAR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,9/28/2020 8:03,9/29/2020 6:07,Low back muscle strain,SHELCAL XT,NULL,"Low back pain - 1 month
+No trauma"
+01409f6c-7ea8-4aa6-ac12-ff2f35dcbff4,fe34cee7-4956-4305-ba2b-13d5b7d791ac,Pat 24,SEEYAR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,9/28/2020 8:03,9/29/2020 6:07,Low back muscle strain,LS BELT,NULL,"Low back pain - 1 month
+No trauma"
+01409f6c-7ea8-4aa6-ac12-ff2f35dcbff4,fe34cee7-4956-4305-ba2b-13d5b7d791ac,Pat 24,SEEYAR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,9/28/2020 8:03,9/29/2020 6:07,Low back muscle strain,volitra gel,NULL,"Low back pain - 1 month
+No trauma"
+01409f6c-7ea8-4aa6-ac12-ff2f35dcbff4,fe34cee7-4956-4305-ba2b-13d5b7d791ac,Pat 24,SEEYAR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,9/28/2020 8:03,9/29/2020 6:07,Low back muscle strain,HOT FOMENTATION,NULL,"Low back pain - 1 month
+No trauma"
+01409f6c-7ea8-4aa6-ac12-ff2f35dcbff4,fe34cee7-4956-4305-ba2b-13d5b7d791ac,Pat 24,SEEYAR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,9/28/2020 8:03,9/29/2020 6:07,Low back muscle strain,zerodol th 4mg1bd,NULL,"Low back pain - 1 month
+No trauma"
+03386727-b1b8-4cfc-91c4-2f1a0977e695,5f2c194e-f8ee-4aa0-b3f6-f53db6393529,Pat 25,MUBARAKPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,KAMAR ME DARD,KAMAR ME DARD,10/15/2020 8:01,10/15/2020 8:06,Low back strain,etoshine mr 60mg BD,NULL,Low back pain - 1-2 months
+03386727-b1b8-4cfc-91c4-2f1a0977e695,5f2c194e-f8ee-4aa0-b3f6-f53db6393529,Pat 25,MUBARAKPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,KAMAR ME DARD,KAMAR ME DARD,10/15/2020 8:01,10/15/2020 8:06,Low back strain,razo d,NULL,Low back pain - 1-2 months
+03386727-b1b8-4cfc-91c4-2f1a0977e695,5f2c194e-f8ee-4aa0-b3f6-f53db6393529,Pat 25,MUBARAKPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,KAMAR ME DARD,KAMAR ME DARD,10/15/2020 8:01,10/15/2020 8:06,Low back strain,SHELCAL XT,NULL,Low back pain - 1-2 months
+03386727-b1b8-4cfc-91c4-2f1a0977e695,5f2c194e-f8ee-4aa0-b3f6-f53db6393529,Pat 25,MUBARAKPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,KAMAR ME DARD,KAMAR ME DARD,10/15/2020 8:01,10/15/2020 8:06,Low back strain,hot fometation,NULL,Low back pain - 1-2 months
+03386727-b1b8-4cfc-91c4-2f1a0977e695,5f2c194e-f8ee-4aa0-b3f6-f53db6393529,Pat 25,MUBARAKPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,KAMAR ME DARD,KAMAR ME DARD,10/15/2020 8:01,10/15/2020 8:06,Low back strain,evion lc BD ,NULL,Low back pain - 1-2 months
+03386727-b1b8-4cfc-91c4-2f1a0977e695,5f2c194e-f8ee-4aa0-b3f6-f53db6393529,Pat 25,MUBARAKPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,KAMAR ME DARD,KAMAR ME DARD,10/15/2020 8:01,10/15/2020 8:06,Low back strain,volitra gel,NULL,Low back pain - 1-2 months
+045c2bc5-44e9-4470-b3d3-42ae44235964,6ad3fc50-b54e-4014-84ba-6f12b0dbd6f6,Pat 26,TARKULWA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,pain,10/12/2020 6:24,10/12/2020 6:47,Low back strain,etoshine mr 60mg BD,NULL,"Low back pain - 5 days
+No trauma"
+045c2bc5-44e9-4470-b3d3-42ae44235964,6ad3fc50-b54e-4014-84ba-6f12b0dbd6f6,Pat 26,TARKULWA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,pain,10/12/2020 6:24,10/12/2020 6:47,Low back strain,SHELCAL XT,NULL,"Low back pain - 5 days
+No trauma"
+045c2bc5-44e9-4470-b3d3-42ae44235964,6ad3fc50-b54e-4014-84ba-6f12b0dbd6f6,Pat 26,TARKULWA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,pain,10/12/2020 6:24,10/12/2020 6:47,Low back strain,hot fometation,NULL,"Low back pain - 5 days
+No trauma"
+045c2bc5-44e9-4470-b3d3-42ae44235964,6ad3fc50-b54e-4014-84ba-6f12b0dbd6f6,Pat 26,TARKULWA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,pain,10/12/2020 6:24,10/12/2020 6:47,Low back strain,razo d,NULL,"Low back pain - 5 days
+No trauma"
+045c2bc5-44e9-4470-b3d3-42ae44235964,6ad3fc50-b54e-4014-84ba-6f12b0dbd6f6,Pat 26,TARKULWA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,pain,10/12/2020 6:24,10/12/2020 6:47,Low back strain,evion lc BD ,NULL,"Low back pain - 5 days
+No trauma"
+045c2bc5-44e9-4470-b3d3-42ae44235964,6ad3fc50-b54e-4014-84ba-6f12b0dbd6f6,Pat 26,TARKULWA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,pain,10/12/2020 6:24,10/12/2020 6:47,Low back strain,volitra gel,NULL,"Low back pain - 5 days
+No trauma"
+004103df-2231-4c7e-993e-bb1bd86a41ea,ec55db83-dd36-4f05-a82e-ac167a6ff8fd,Pat 27,KAPTANGANJ CHC (Basti),Dr.Pranav Mahajan,Orthopaedics,Lower abdominal pain,,back side pain,10/26/2021 7:49,10/26/2021 8:25,Low back strain ,IBUPROFEN Tablet ,NULL,"Low abdominal pain 
+Low back pain - 20 days"
+004103df-2231-4c7e-993e-bb1bd86a41ea,ec55db83-dd36-4f05-a82e-ac167a6ff8fd,Pat 27,KAPTANGANJ CHC (Basti),Dr.Pranav Mahajan,Orthopaedics,Lower abdominal pain,,back side pain,10/26/2021 7:49,10/26/2021 8:25,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,"Low abdominal pain 
+Low back pain - 20 days"
+004103df-2231-4c7e-993e-bb1bd86a41ea,ec55db83-dd36-4f05-a82e-ac167a6ff8fd,Pat 27,KAPTANGANJ CHC (Basti),Dr.Pranav Mahajan,Orthopaedics,Lower abdominal pain,,back side pain,10/26/2021 7:49,10/26/2021 8:25,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,"Low abdominal pain 
+Low back pain - 20 days"
+004103df-2231-4c7e-993e-bb1bd86a41ea,ec55db83-dd36-4f05-a82e-ac167a6ff8fd,Pat 27,KAPTANGANJ CHC (Basti),Dr.Pranav Mahajan,Orthopaedics,Lower abdominal pain,,back side pain,10/26/2021 7:49,10/26/2021 8:25,Low back strain ,DICLOFENAC SODIUM SR Tablet ,NULL,"Low abdominal pain 
+Low back pain - 20 days"
+0041caa3-8f59-4777-b886-5f56bffbd561,01aa5914-04d9-4ab4-b2cb-26492414cb9e,Pat 28,HARRIYA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK BONE PAIN,BACK BONE PAIN,11/5/2020 8:48,11/5/2020 8:55,Low back strain ,razo d,X ray LS SPine - AP/Lat,"Low back pain - 1 yr
+No trauma"
+0041caa3-8f59-4777-b886-5f56bffbd561,01aa5914-04d9-4ab4-b2cb-26492414cb9e,Pat 28,HARRIYA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK BONE PAIN,BACK BONE PAIN,11/5/2020 8:48,11/5/2020 8:55,Low back strain ,ZERODOL MR,X ray LS SPine - AP/Lat,"Low back pain - 1 yr
+No trauma"
+0041caa3-8f59-4777-b886-5f56bffbd561,01aa5914-04d9-4ab4-b2cb-26492414cb9e,Pat 28,HARRIYA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK BONE PAIN,BACK BONE PAIN,11/5/2020 8:48,11/5/2020 8:55,Low back strain ,shelcal 500mg OD,X ray LS SPine - AP/Lat,"Low back pain - 1 yr
+No trauma"
+0041caa3-8f59-4777-b886-5f56bffbd561,01aa5914-04d9-4ab4-b2cb-26492414cb9e,Pat 28,HARRIYA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK BONE PAIN,BACK BONE PAIN,11/5/2020 8:48,11/5/2020 8:55,Low back strain ,volitra gel,X ray LS SPine - AP/Lat,"Low back pain - 1 yr
+No trauma"
+0041caa3-8f59-4777-b886-5f56bffbd561,01aa5914-04d9-4ab4-b2cb-26492414cb9e,Pat 28,HARRIYA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK BONE PAIN,BACK BONE PAIN,11/5/2020 8:48,11/5/2020 8:55,Low back strain ,hot fometation,X ray LS SPine - AP/Lat,"Low back pain - 1 yr
+No trauma"
+0041caa3-8f59-4777-b886-5f56bffbd561,01aa5914-04d9-4ab4-b2cb-26492414cb9e,Pat 28,HARRIYA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK BONE PAIN,BACK BONE PAIN,11/5/2020 8:48,11/5/2020 8:55,Low back strain ,evion lc BD ,X ray LS SPine - AP/Lat,"Low back pain - 1 yr
+No trauma"
+0069f0b8-dea1-4f08-86d4-17f6f83f8ee9,b28579e0-2f86-4842-bf37-ed629d2bb7b2,Pat 29,KAPTANGANJ CHC (Basti),Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,11/26/2020 9:58,11/26/2020 10:01,Low back strain ,razo d,NULL,"Low back pain - 7 days
+no trauma"
+0069f0b8-dea1-4f08-86d4-17f6f83f8ee9,b28579e0-2f86-4842-bf37-ed629d2bb7b2,Pat 29,KAPTANGANJ CHC (Basti),Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,11/26/2020 9:58,11/26/2020 10:01,Low back strain ,hot fometation,NULL,"Low back pain - 7 days
+no trauma"
+0069f0b8-dea1-4f08-86d4-17f6f83f8ee9,b28579e0-2f86-4842-bf37-ed629d2bb7b2,Pat 29,KAPTANGANJ CHC (Basti),Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,11/26/2020 9:58,11/26/2020 10:01,Low back strain ,Zerodol mr 1 bd,NULL,"Low back pain - 7 days
+no trauma"
+0069f0b8-dea1-4f08-86d4-17f6f83f8ee9,b28579e0-2f86-4842-bf37-ed629d2bb7b2,Pat 29,KAPTANGANJ CHC (Basti),Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,11/26/2020 9:58,11/26/2020 10:01,Low back strain ,DFO GEL FOR LA TDS,NULL,"Low back pain - 7 days
+no trauma"
+00788fd3-e4aa-4c69-ae85-c6b366b438c4,0ae3051b-d6bc-48c1-9110-c8f537b28ec5,Pat 30,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain  ,10/10/2020 7:52,10/10/2020 7:53,Low back strain ,razo d,NULL,"Low back pain - 7 days
+No trauma"
+00788fd3-e4aa-4c69-ae85-c6b366b438c4,0ae3051b-d6bc-48c1-9110-c8f537b28ec5,Pat 30,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain  ,10/10/2020 7:52,10/10/2020 7:53,Low back strain ,hot fometation,NULL,"Low back pain - 7 days
+No trauma"
+00788fd3-e4aa-4c69-ae85-c6b366b438c4,0ae3051b-d6bc-48c1-9110-c8f537b28ec5,Pat 30,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain  ,10/10/2020 7:52,10/10/2020 7:53,Low back strain ,ZERODOL MR,NULL,"Low back pain - 7 days
+No trauma"
+00788fd3-e4aa-4c69-ae85-c6b366b438c4,0ae3051b-d6bc-48c1-9110-c8f537b28ec5,Pat 30,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain  ,10/10/2020 7:52,10/10/2020 7:53,Low back strain ,evion lc BD ,NULL,"Low back pain - 7 days
+No trauma"
+00788fd3-e4aa-4c69-ae85-c6b366b438c4,0ae3051b-d6bc-48c1-9110-c8f537b28ec5,Pat 30,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain  ,10/10/2020 7:52,10/10/2020 7:53,Low back strain ,volitra gel,NULL,"Low back pain - 7 days
+No trauma"
+00788fd3-e4aa-4c69-ae85-c6b366b438c4,0ae3051b-d6bc-48c1-9110-c8f537b28ec5,Pat 30,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain  ,10/10/2020 7:52,10/10/2020 7:53,Low back strain ,SHELCAL XT,NULL,"Low back pain - 7 days
+No trauma"
+007f9377-417f-4094-a745-dc9b3c985e33,d72fcff1-eda0-4914-9dd9-e4807338b2d0,Pat 31,LAXMIPUR CHC,Dr. Brijendra Pratap Singh Bhadauria,Orthopaedics,Back pain,,back pain last 5 days,9/28/2021 7:12,9/28/2021 7:54,Low back strain ,PARACETAMOL Tablet ,NULL,Low back pain - 5 days
+007f9377-417f-4094-a745-dc9b3c985e33,d72fcff1-eda0-4914-9dd9-e4807338b2d0,Pat 31,LAXMIPUR CHC,Dr. Brijendra Pratap Singh Bhadauria,Orthopaedics,Back pain,,back pain last 5 days,9/28/2021 7:12,9/28/2021 7:54,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,Low back pain - 5 days
+007f9377-417f-4094-a745-dc9b3c985e33,d72fcff1-eda0-4914-9dd9-e4807338b2d0,Pat 31,LAXMIPUR CHC,Dr. Brijendra Pratap Singh Bhadauria,Orthopaedics,Back pain,,back pain last 5 days,9/28/2021 7:12,9/28/2021 7:54,Low back strain ,IBUPROFEN Tablet ,NULL,Low back pain - 5 days
+007f9377-417f-4094-a745-dc9b3c985e33,d72fcff1-eda0-4914-9dd9-e4807338b2d0,Pat 31,LAXMIPUR CHC,Dr. Brijendra Pratap Singh Bhadauria,Orthopaedics,Back pain,,back pain last 5 days,9/28/2021 7:12,9/28/2021 7:54,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,Low back pain - 5 days
+007f9377-417f-4094-a745-dc9b3c985e33,d72fcff1-eda0-4914-9dd9-e4807338b2d0,Pat 31,LAXMIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain last 5 days,9/28/2021 7:12,9/28/2021 7:54,Low back strain ,PARACETAMOL Tablet ,NULL,Low back pain - 5 days
+007f9377-417f-4094-a745-dc9b3c985e33,d72fcff1-eda0-4914-9dd9-e4807338b2d0,Pat 31,LAXMIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain last 5 days,9/28/2021 7:12,9/28/2021 7:54,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,Low back pain - 5 days
+007f9377-417f-4094-a745-dc9b3c985e33,d72fcff1-eda0-4914-9dd9-e4807338b2d0,Pat 31,LAXMIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain last 5 days,9/28/2021 7:12,9/28/2021 7:54,Low back strain ,IBUPROFEN Tablet ,NULL,Low back pain - 5 days
+007f9377-417f-4094-a745-dc9b3c985e33,d72fcff1-eda0-4914-9dd9-e4807338b2d0,Pat 31,LAXMIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain last 5 days,9/28/2021 7:12,9/28/2021 7:54,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,Low back pain - 5 days
+00a0363f-85ec-4584-b723-e3f4e629f665,de91008d-24e1-4cac-b629-d6f7c6d6700f,Pat 32,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain  ,10/5/2020 6:43,10/5/2020 7:05,Low back strain ,razo d,NULL,"Low back pain - 7 days
+No trauma"
+00a0363f-85ec-4584-b723-e3f4e629f665,de91008d-24e1-4cac-b629-d6f7c6d6700f,Pat 32,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain  ,10/5/2020 6:43,10/5/2020 7:05,Low back strain ,HOT FOMENTATION,NULL,"Low back pain - 7 days
+No trauma"
+00a0363f-85ec-4584-b723-e3f4e629f665,de91008d-24e1-4cac-b629-d6f7c6d6700f,Pat 32,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain  ,10/5/2020 6:43,10/5/2020 7:05,Low back strain ,SHELCAL XT,NULL,"Low back pain - 7 days
+No trauma"
+00a0363f-85ec-4584-b723-e3f4e629f665,de91008d-24e1-4cac-b629-d6f7c6d6700f,Pat 32,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain  ,10/5/2020 6:43,10/5/2020 7:05,Low back strain ,volitra gel,NULL,"Low back pain - 7 days
+No trauma"
+00a0363f-85ec-4584-b723-e3f4e629f665,de91008d-24e1-4cac-b629-d6f7c6d6700f,Pat 32,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain  ,10/5/2020 6:43,10/5/2020 7:05,Low back strain ,ZERODOL MR,NULL,"Low back pain - 7 days
+No trauma"
+00a0363f-85ec-4584-b723-e3f4e629f665,de91008d-24e1-4cac-b629-d6f7c6d6700f,Pat 32,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain  ,10/5/2020 6:43,10/5/2020 7:05,Low back strain ,evion lc BD ,NULL,"Low back pain - 7 days
+No trauma"
+01115476-e779-4bb4-a540-911224cbe7cd,25004391-1532-4961-a97a-fb9684184be9,Pat 33,TULSIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,10/27/2020 7:48,10/27/2020 7:51,Low back strain ,volitra gel,NULL,"Low back pain - 15 days
+No trauma"
+01115476-e779-4bb4-a540-911224cbe7cd,25004391-1532-4961-a97a-fb9684184be9,Pat 33,TULSIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,10/27/2020 7:48,10/27/2020 7:51,Low back strain ,ZERODOL MR,NULL,"Low back pain - 15 days
+No trauma"
+01115476-e779-4bb4-a540-911224cbe7cd,25004391-1532-4961-a97a-fb9684184be9,Pat 33,TULSIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,10/27/2020 7:48,10/27/2020 7:51,Low back strain ,hot fometation,NULL,"Low back pain - 15 days
+No trauma"
+01115476-e779-4bb4-a540-911224cbe7cd,25004391-1532-4961-a97a-fb9684184be9,Pat 33,TULSIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,10/27/2020 7:48,10/27/2020 7:51,Low back strain ,razo d,NULL,"Low back pain - 15 days
+No trauma"
+01115476-e779-4bb4-a540-911224cbe7cd,25004391-1532-4961-a97a-fb9684184be9,Pat 33,TULSIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,10/27/2020 7:48,10/27/2020 7:51,Low back strain ,evion lc BD ,NULL,"Low back pain - 15 days
+No trauma"
+013a51a7-4b4e-4316-878e-ef4cf132fe0b,797c6a8b-50f8-4fd1-ba03-5d7f45819b6f,Pat 34,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain & Knee Pain  ,10/9/2020 6:22,10/9/2020 6:47,Low back strain ,volitra gel,NULL,"Low back pain - 7 days
+No trauma
+Diff in forward bending +"
+013a51a7-4b4e-4316-878e-ef4cf132fe0b,797c6a8b-50f8-4fd1-ba03-5d7f45819b6f,Pat 34,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain & Knee Pain  ,10/9/2020 6:22,10/9/2020 6:47,Low back strain ,ZERODOL MR,NULL,"Low back pain - 7 days
+No trauma
+Diff in forward bending +"
+013a51a7-4b4e-4316-878e-ef4cf132fe0b,797c6a8b-50f8-4fd1-ba03-5d7f45819b6f,Pat 34,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain & Knee Pain  ,10/9/2020 6:22,10/9/2020 6:47,Low back strain ,razo d,NULL,"Low back pain - 7 days
+No trauma
+Diff in forward bending +"
+013a51a7-4b4e-4316-878e-ef4cf132fe0b,797c6a8b-50f8-4fd1-ba03-5d7f45819b6f,Pat 34,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain & Knee Pain  ,10/9/2020 6:22,10/9/2020 6:47,Low back strain ,SHELCAL XT,NULL,"Low back pain - 7 days
+No trauma
+Diff in forward bending +"
+013a51a7-4b4e-4316-878e-ef4cf132fe0b,797c6a8b-50f8-4fd1-ba03-5d7f45819b6f,Pat 34,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain & Knee Pain  ,10/9/2020 6:22,10/9/2020 6:47,Low back strain ,HOT FOMENTATION,NULL,"Low back pain - 7 days
+No trauma
+Diff in forward bending +"
+0150173a-0d5a-4f37-924b-4b1c2323dd4b,fd58ac99-811d-47ad-b1ad-8798f44f57dd,Pat 35,AHIRAULLA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back pain,10/31/2020 7:27,10/31/2020 7:36,Low back strain ,razo d,NULL,NULL
+0150173a-0d5a-4f37-924b-4b1c2323dd4b,fd58ac99-811d-47ad-b1ad-8798f44f57dd,Pat 35,AHIRAULLA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back pain,10/31/2020 7:27,10/31/2020 7:36,Low back strain ,etoshine mr 60mg BD,NULL,NULL
+0150173a-0d5a-4f37-924b-4b1c2323dd4b,fd58ac99-811d-47ad-b1ad-8798f44f57dd,Pat 35,AHIRAULLA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back pain,10/31/2020 7:27,10/31/2020 7:36,Low back strain ,evion lc BD ,NULL,NULL
+0150173a-0d5a-4f37-924b-4b1c2323dd4b,fd58ac99-811d-47ad-b1ad-8798f44f57dd,Pat 35,AHIRAULLA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back pain,10/31/2020 7:27,10/31/2020 7:36,Low back strain ,hot fometation,NULL,NULL
+0150173a-0d5a-4f37-924b-4b1c2323dd4b,fd58ac99-811d-47ad-b1ad-8798f44f57dd,Pat 35,AHIRAULLA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back pain,10/31/2020 7:27,10/31/2020 7:36,Low back strain ,volitra gel,NULL,NULL
+0150173a-0d5a-4f37-924b-4b1c2323dd4b,fd58ac99-811d-47ad-b1ad-8798f44f57dd,Pat 35,AHIRAULLA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back pain,10/31/2020 7:27,10/31/2020 7:36,Low back strain ,SHELCAL XT,NULL,NULL
+018cc6a8-2f17-49f1-9319-a6dc7c48809b,de45a0b4-c830-45b2-ad51-f0dd30a18c08,Pat 36,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain ,10/14/2020 5:49,10/14/2020 6:15,Low back strain ,SHELCAL XT,NULL,"Low back pain - 7 days
+No trauma"
+018cc6a8-2f17-49f1-9319-a6dc7c48809b,de45a0b4-c830-45b2-ad51-f0dd30a18c08,Pat 36,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain ,10/14/2020 5:49,10/14/2020 6:15,Low back strain ,evion lc BD ,NULL,"Low back pain - 7 days
+No trauma"
+018cc6a8-2f17-49f1-9319-a6dc7c48809b,de45a0b4-c830-45b2-ad51-f0dd30a18c08,Pat 36,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain ,10/14/2020 5:49,10/14/2020 6:15,Low back strain ,razo d,NULL,"Low back pain - 7 days
+No trauma"
+018cc6a8-2f17-49f1-9319-a6dc7c48809b,de45a0b4-c830-45b2-ad51-f0dd30a18c08,Pat 36,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back Pain ,10/14/2020 5:49,10/14/2020 6:15,Low back strain ,etoshine mr 60mg BD,NULL,"Low back pain - 7 days
+No trauma"
+01989900-243e-417c-a11a-1310986738b0,23513935-c10c-416e-b705-df89423bcca2,Pat 37,PHARENDA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN LASR 15 DAYS,11/24/2020 6:46,11/24/2020 6:58,Low back strain ,volitra gel,NULL,"Low back pain - 15 days
+No trauma"
+01989900-243e-417c-a11a-1310986738b0,23513935-c10c-416e-b705-df89423bcca2,Pat 37,PHARENDA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN LASR 15 DAYS,11/24/2020 6:46,11/24/2020 6:58,Low back strain ,hot fometation,NULL,"Low back pain - 15 days
+No trauma"
+01989900-243e-417c-a11a-1310986738b0,23513935-c10c-416e-b705-df89423bcca2,Pat 37,PHARENDA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN LASR 15 DAYS,11/24/2020 6:46,11/24/2020 6:58,Low back strain ,etoshine mr 60mg BD,NULL,"Low back pain - 15 days
+No trauma"
+01989900-243e-417c-a11a-1310986738b0,23513935-c10c-416e-b705-df89423bcca2,Pat 37,PHARENDA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN LASR 15 DAYS,11/24/2020 6:46,11/24/2020 6:58,Low back strain ,razo d,NULL,"Low back pain - 15 days
+No trauma"
+01b84351-3c9d-484c-aa57-198892d30592,fb7bd3ca-e7b5-4139-add5-3f8223b6473e,Pat 38,MEDHAWAL CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,10/12/2021 7:56,10/12/2021 8:02,Low back strain ,IBUPROFEN Tablet ,NULL,LBA - 10 days
+01b84351-3c9d-484c-aa57-198892d30592,fb7bd3ca-e7b5-4139-add5-3f8223b6473e,Pat 38,MEDHAWAL CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,10/12/2021 7:56,10/12/2021 8:02,Low back strain ,Calcium Citrate,NULL,LBA - 10 days
+01b84351-3c9d-484c-aa57-198892d30592,fb7bd3ca-e7b5-4139-add5-3f8223b6473e,Pat 38,MEDHAWAL CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,10/12/2021 7:56,10/12/2021 8:02,Low back strain ,PARACETAMOL Tablet ,NULL,LBA - 10 days
+01b84351-3c9d-484c-aa57-198892d30592,fb7bd3ca-e7b5-4139-add5-3f8223b6473e,Pat 38,MEDHAWAL CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,10/12/2021 7:56,10/12/2021 8:02,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,LBA - 10 days
+01b84351-3c9d-484c-aa57-198892d30592,fb7bd3ca-e7b5-4139-add5-3f8223b6473e,Pat 38,MEDHAWAL CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,10/12/2021 7:56,10/12/2021 8:02,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,LBA - 10 days
+01bcd492-4945-4fd9-b866-b101e3fbbfdf,3bbcef5b-873e-42a0-8b74-2d1c0ea0c445,Pat 39,SIRSIA CHC (SIDDARTHNAGAR),Dr.Nitin Tiwari,Dermatology,Back pain,,FUNGAL  INFECTION ,12/28/2020 8:37,12/28/2020 9:32,Low back strain ,volitra gel,NULL,"Low back pain - 7 days
+NO trauma"
+01bcd492-4945-4fd9-b866-b101e3fbbfdf,3bbcef5b-873e-42a0-8b74-2d1c0ea0c445,Pat 39,SIRSIA CHC (SIDDARTHNAGAR),Dr.Nitin Tiwari,Dermatology,Back pain,,FUNGAL  INFECTION ,12/28/2020 8:37,12/28/2020 9:32,Low back strain ,shelcal 500mg OD,NULL,"Low back pain - 7 days
+NO trauma"
+01bcd492-4945-4fd9-b866-b101e3fbbfdf,3bbcef5b-873e-42a0-8b74-2d1c0ea0c445,Pat 39,SIRSIA CHC (SIDDARTHNAGAR),Dr.Nitin Tiwari,Dermatology,Back pain,,FUNGAL  INFECTION ,12/28/2020 8:37,12/28/2020 9:32,Low back strain ,razo d,NULL,"Low back pain - 7 days
+NO trauma"
+01bcd492-4945-4fd9-b866-b101e3fbbfdf,3bbcef5b-873e-42a0-8b74-2d1c0ea0c445,Pat 39,SIRSIA CHC (SIDDARTHNAGAR),Dr.Nitin Tiwari,Dermatology,Back pain,,FUNGAL  INFECTION ,12/28/2020 8:37,12/28/2020 9:32,Low back strain ,etoshine mr 60mg BD,NULL,"Low back pain - 7 days
+NO trauma"
+01bcd492-4945-4fd9-b866-b101e3fbbfdf,3bbcef5b-873e-42a0-8b74-2d1c0ea0c445,Pat 39,SIRSIA CHC (SIDDARTHNAGAR),Dr.Nitin Tiwari,Dermatology,Back pain,,FUNGAL  INFECTION ,12/28/2020 8:37,12/28/2020 9:32,Low back strain ,hot fometation,NULL,"Low back pain - 7 days
+NO trauma"
+01bcd492-4945-4fd9-b866-b101e3fbbfdf,3bbcef5b-873e-42a0-8b74-2d1c0ea0c445,Pat 39,SIRSIA CHC (SIDDARTHNAGAR),Dr.Pranav Mahajan,Orthopaedics,Back pain,,FUNGAL  INFECTION ,12/28/2020 8:37,12/28/2020 9:32,Low back strain ,volitra gel,NULL,"Low back pain - 7 days
+NO trauma"
+01bcd492-4945-4fd9-b866-b101e3fbbfdf,3bbcef5b-873e-42a0-8b74-2d1c0ea0c445,Pat 39,SIRSIA CHC (SIDDARTHNAGAR),Dr.Pranav Mahajan,Orthopaedics,Back pain,,FUNGAL  INFECTION ,12/28/2020 8:37,12/28/2020 9:32,Low back strain ,shelcal 500mg OD,NULL,"Low back pain - 7 days
+NO trauma"
+01bcd492-4945-4fd9-b866-b101e3fbbfdf,3bbcef5b-873e-42a0-8b74-2d1c0ea0c445,Pat 39,SIRSIA CHC (SIDDARTHNAGAR),Dr.Pranav Mahajan,Orthopaedics,Back pain,,FUNGAL  INFECTION ,12/28/2020 8:37,12/28/2020 9:32,Low back strain ,razo d,NULL,"Low back pain - 7 days
+NO trauma"
+01bcd492-4945-4fd9-b866-b101e3fbbfdf,3bbcef5b-873e-42a0-8b74-2d1c0ea0c445,Pat 39,SIRSIA CHC (SIDDARTHNAGAR),Dr.Pranav Mahajan,Orthopaedics,Back pain,,FUNGAL  INFECTION ,12/28/2020 8:37,12/28/2020 9:32,Low back strain ,etoshine mr 60mg BD,NULL,"Low back pain - 7 days
+NO trauma"
+01bcd492-4945-4fd9-b866-b101e3fbbfdf,3bbcef5b-873e-42a0-8b74-2d1c0ea0c445,Pat 39,SIRSIA CHC (SIDDARTHNAGAR),Dr.Pranav Mahajan,Orthopaedics,Back pain,,FUNGAL  INFECTION ,12/28/2020 8:37,12/28/2020 9:32,Low back strain ,hot fometation,NULL,"Low back pain - 7 days
+NO trauma"
+01d6e587-5e73-46c1-939b-4257305a1588,373450e1-78ae-45bf-9c6e-4376c1f109bb,Pat 40,KHADDA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,bach pain,11/3/2021 8:17,11/3/2021 8:28,Low back strain ,PARACETAMOL Tablet ,NULL,"LBA 
+Headache - 3 months"
+01d6e587-5e73-46c1-939b-4257305a1588,373450e1-78ae-45bf-9c6e-4376c1f109bb,Pat 40,KHADDA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,bach pain,11/3/2021 8:17,11/3/2021 8:28,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,"LBA 
+Headache - 3 months"
+01d6e587-5e73-46c1-939b-4257305a1588,373450e1-78ae-45bf-9c6e-4376c1f109bb,Pat 40,KHADDA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,bach pain,11/3/2021 8:17,11/3/2021 8:28,Low back strain ,Calcium Citrate,NULL,"LBA 
+Headache - 3 months"
+01d6e587-5e73-46c1-939b-4257305a1588,373450e1-78ae-45bf-9c6e-4376c1f109bb,Pat 40,KHADDA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,bach pain,11/3/2021 8:17,11/3/2021 8:28,Low back strain ,DICLOFENAC SODIUM SR Tablet ,NULL,"LBA 
+Headache - 3 months"
+01d6e587-5e73-46c1-939b-4257305a1588,373450e1-78ae-45bf-9c6e-4376c1f109bb,Pat 40,KHADDA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,bach pain,11/3/2021 8:17,11/3/2021 8:28,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,"LBA 
+Headache - 3 months"
+01d6e587-5e73-46c1-939b-4257305a1588,373450e1-78ae-45bf-9c6e-4376c1f109bb,Pat 40,KHADDA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,head pain,bach pain,11/3/2021 8:17,11/3/2021 8:28,Low back strain ,PARACETAMOL Tablet ,NULL,"LBA 
+Headache - 3 months"
+01d6e587-5e73-46c1-939b-4257305a1588,373450e1-78ae-45bf-9c6e-4376c1f109bb,Pat 40,KHADDA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,head pain,bach pain,11/3/2021 8:17,11/3/2021 8:28,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,"LBA 
+Headache - 3 months"
+01d6e587-5e73-46c1-939b-4257305a1588,373450e1-78ae-45bf-9c6e-4376c1f109bb,Pat 40,KHADDA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,head pain,bach pain,11/3/2021 8:17,11/3/2021 8:28,Low back strain ,Calcium Citrate,NULL,"LBA 
+Headache - 3 months"
+01d6e587-5e73-46c1-939b-4257305a1588,373450e1-78ae-45bf-9c6e-4376c1f109bb,Pat 40,KHADDA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,head pain,bach pain,11/3/2021 8:17,11/3/2021 8:28,Low back strain ,DICLOFENAC SODIUM SR Tablet ,NULL,"LBA 
+Headache - 3 months"
+01d6e587-5e73-46c1-939b-4257305a1588,373450e1-78ae-45bf-9c6e-4376c1f109bb,Pat 40,KHADDA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,head pain,bach pain,11/3/2021 8:17,11/3/2021 8:28,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,"LBA 
+Headache - 3 months"
+0212ea81-a361-4cd8-ab93-5e1ec58c7e1d,a0604aa9-362c-4fe1-8a07-23c4afac147e,Pat 41,MITHWAL BAZAR/TILOULI CHC,Dr.Sahil Pruthi,Dermatology,Itching of skin,,ITCHING OF SKIN,12/13/2021 8:18,12/13/2021 8:57,Low back strain ,Calcium Citrate,NULL,"LBA
+Itching skin - 15 days"
+0212ea81-a361-4cd8-ab93-5e1ec58c7e1d,a0604aa9-362c-4fe1-8a07-23c4afac147e,Pat 41,MITHWAL BAZAR/TILOULI CHC,Dr.Sahil Pruthi,Dermatology,Itching of skin,,ITCHING OF SKIN,12/13/2021 8:18,12/13/2021 8:57,Low back strain ,PARACETAMOL Tablet ,NULL,"LBA
+Itching skin - 15 days"
+0212ea81-a361-4cd8-ab93-5e1ec58c7e1d,a0604aa9-362c-4fe1-8a07-23c4afac147e,Pat 41,MITHWAL BAZAR/TILOULI CHC,Dr.Sahil Pruthi,Dermatology,Itching of skin,,ITCHING OF SKIN,12/13/2021 8:18,12/13/2021 8:57,Low back strain ,IBUPROFEN Tablet ,NULL,"LBA
+Itching skin - 15 days"
+0212ea81-a361-4cd8-ab93-5e1ec58c7e1d,a0604aa9-362c-4fe1-8a07-23c4afac147e,Pat 41,MITHWAL BAZAR/TILOULI CHC,Dr.Sahil Pruthi,Dermatology,Itching of skin,,ITCHING OF SKIN,12/13/2021 8:18,12/13/2021 8:57,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,"LBA
+Itching skin - 15 days"
+0212ea81-a361-4cd8-ab93-5e1ec58c7e1d,a0604aa9-362c-4fe1-8a07-23c4afac147e,Pat 41,MITHWAL BAZAR/TILOULI CHC,Dr.Sahil Pruthi,Dermatology,Itching of skin,,ITCHING OF SKIN,12/13/2021 8:18,12/13/2021 8:57,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,"LBA
+Itching skin - 15 days"
+0212ea81-a361-4cd8-ab93-5e1ec58c7e1d,a0604aa9-362c-4fe1-8a07-23c4afac147e,Pat 41,MITHWAL BAZAR/TILOULI CHC,Dr.Sahil Pruthi,Dermatology,Back pain,,ITCHING OF SKIN,12/13/2021 8:18,12/13/2021 8:57,Low back strain ,Calcium Citrate,NULL,"LBA
+Itching skin - 15 days"
+0212ea81-a361-4cd8-ab93-5e1ec58c7e1d,a0604aa9-362c-4fe1-8a07-23c4afac147e,Pat 41,MITHWAL BAZAR/TILOULI CHC,Dr.Sahil Pruthi,Dermatology,Back pain,,ITCHING OF SKIN,12/13/2021 8:18,12/13/2021 8:57,Low back strain ,PARACETAMOL Tablet ,NULL,"LBA
+Itching skin - 15 days"
+0212ea81-a361-4cd8-ab93-5e1ec58c7e1d,a0604aa9-362c-4fe1-8a07-23c4afac147e,Pat 41,MITHWAL BAZAR/TILOULI CHC,Dr.Sahil Pruthi,Dermatology,Back pain,,ITCHING OF SKIN,12/13/2021 8:18,12/13/2021 8:57,Low back strain ,IBUPROFEN Tablet ,NULL,"LBA
+Itching skin - 15 days"
+0212ea81-a361-4cd8-ab93-5e1ec58c7e1d,a0604aa9-362c-4fe1-8a07-23c4afac147e,Pat 41,MITHWAL BAZAR/TILOULI CHC,Dr.Sahil Pruthi,Dermatology,Back pain,,ITCHING OF SKIN,12/13/2021 8:18,12/13/2021 8:57,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,"LBA
+Itching skin - 15 days"
+0212ea81-a361-4cd8-ab93-5e1ec58c7e1d,a0604aa9-362c-4fe1-8a07-23c4afac147e,Pat 41,MITHWAL BAZAR/TILOULI CHC,Dr.Sahil Pruthi,Dermatology,Back pain,,ITCHING OF SKIN,12/13/2021 8:18,12/13/2021 8:57,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,"LBA
+Itching skin - 15 days"
+0212ea81-a361-4cd8-ab93-5e1ec58c7e1d,a0604aa9-362c-4fe1-8a07-23c4afac147e,Pat 41,MITHWAL BAZAR/TILOULI CHC,Dr.Pranav Mahajan,Orthopaedics,Itching of skin,,ITCHING OF SKIN,12/13/2021 8:18,12/13/2021 8:57,Low back strain ,Calcium Citrate,NULL,"LBA
+Itching skin - 15 days"
+0212ea81-a361-4cd8-ab93-5e1ec58c7e1d,a0604aa9-362c-4fe1-8a07-23c4afac147e,Pat 41,MITHWAL BAZAR/TILOULI CHC,Dr.Pranav Mahajan,Orthopaedics,Itching of skin,,ITCHING OF SKIN,12/13/2021 8:18,12/13/2021 8:57,Low back strain ,PARACETAMOL Tablet ,NULL,"LBA
+Itching skin - 15 days"
+0212ea81-a361-4cd8-ab93-5e1ec58c7e1d,a0604aa9-362c-4fe1-8a07-23c4afac147e,Pat 41,MITHWAL BAZAR/TILOULI CHC,Dr.Pranav Mahajan,Orthopaedics,Itching of skin,,ITCHING OF SKIN,12/13/2021 8:18,12/13/2021 8:57,Low back strain ,IBUPROFEN Tablet ,NULL,"LBA
+Itching skin - 15 days"
+0212ea81-a361-4cd8-ab93-5e1ec58c7e1d,a0604aa9-362c-4fe1-8a07-23c4afac147e,Pat 41,MITHWAL BAZAR/TILOULI CHC,Dr.Pranav Mahajan,Orthopaedics,Itching of skin,,ITCHING OF SKIN,12/13/2021 8:18,12/13/2021 8:57,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,"LBA
+Itching skin - 15 days"
+0212ea81-a361-4cd8-ab93-5e1ec58c7e1d,a0604aa9-362c-4fe1-8a07-23c4afac147e,Pat 41,MITHWAL BAZAR/TILOULI CHC,Dr.Pranav Mahajan,Orthopaedics,Itching of skin,,ITCHING OF SKIN,12/13/2021 8:18,12/13/2021 8:57,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,"LBA
+Itching skin - 15 days"
+0212ea81-a361-4cd8-ab93-5e1ec58c7e1d,a0604aa9-362c-4fe1-8a07-23c4afac147e,Pat 41,MITHWAL BAZAR/TILOULI CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,ITCHING OF SKIN,12/13/2021 8:18,12/13/2021 8:57,Low back strain ,Calcium Citrate,NULL,"LBA
+Itching skin - 15 days"
+0212ea81-a361-4cd8-ab93-5e1ec58c7e1d,a0604aa9-362c-4fe1-8a07-23c4afac147e,Pat 41,MITHWAL BAZAR/TILOULI CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,ITCHING OF SKIN,12/13/2021 8:18,12/13/2021 8:57,Low back strain ,PARACETAMOL Tablet ,NULL,"LBA
+Itching skin - 15 days"
+0212ea81-a361-4cd8-ab93-5e1ec58c7e1d,a0604aa9-362c-4fe1-8a07-23c4afac147e,Pat 41,MITHWAL BAZAR/TILOULI CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,ITCHING OF SKIN,12/13/2021 8:18,12/13/2021 8:57,Low back strain ,IBUPROFEN Tablet ,NULL,"LBA
+Itching skin - 15 days"
+0212ea81-a361-4cd8-ab93-5e1ec58c7e1d,a0604aa9-362c-4fe1-8a07-23c4afac147e,Pat 41,MITHWAL BAZAR/TILOULI CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,ITCHING OF SKIN,12/13/2021 8:18,12/13/2021 8:57,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,"LBA
+Itching skin - 15 days"
+0212ea81-a361-4cd8-ab93-5e1ec58c7e1d,a0604aa9-362c-4fe1-8a07-23c4afac147e,Pat 41,MITHWAL BAZAR/TILOULI CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,ITCHING OF SKIN,12/13/2021 8:18,12/13/2021 8:57,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,"LBA
+Itching skin - 15 days"
+023d2373-2ebe-417a-8611-133349594f7b,d750b80a-95ff-494b-a609-c502ccac9919,Pat 42,KHALILABAD CHC,Dr.Pranav Mahajan,Orthopaedics,Others,Back pain,Back pain,7/20/2021 8:17,7/20/2021 8:30,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,Low back pain - 10 days
+023d2373-2ebe-417a-8611-133349594f7b,d750b80a-95ff-494b-a609-c502ccac9919,Pat 42,KHALILABAD CHC,Dr.Pranav Mahajan,Orthopaedics,Others,Back pain,Back pain,7/20/2021 8:17,7/20/2021 8:30,Low back strain ,IBUPROFEN Tablet ,NULL,Low back pain - 10 days
+023d2373-2ebe-417a-8611-133349594f7b,d750b80a-95ff-494b-a609-c502ccac9919,Pat 42,KHALILABAD CHC,Dr.Pranav Mahajan,Orthopaedics,Others,Back pain,Back pain,7/20/2021 8:17,7/20/2021 8:30,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,Low back pain - 10 days
+023d2373-2ebe-417a-8611-133349594f7b,d750b80a-95ff-494b-a609-c502ccac9919,Pat 42,KHALILABAD CHC,Dr.Pranav Mahajan,Orthopaedics,Others,Back pain,Back pain,7/20/2021 8:17,7/20/2021 8:30,Low back strain ,Calcium Citrate,NULL,Low back pain - 10 days
+023d2373-2ebe-417a-8611-133349594f7b,d750b80a-95ff-494b-a609-c502ccac9919,Pat 42,KHALILABAD CHC,Dr.Pranav Mahajan,Orthopaedics,Others,Back pain,Back pain,7/20/2021 8:17,7/20/2021 8:30,Low back strain ,PARACETAMOL Tablet ,NULL,Low back pain - 10 days
+024bc160-0990-4b7b-a3aa-ac0b976b5b32,36bfba22-8a8e-4e2f-9379-16ac89c8c24b,Pat 43,VIKRAMJOT CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,4/2/2021 5:45,4/2/2021 5:51,Low back strain ,Calcium Citrate,NULL,Low back pain - 2 months
+024bc160-0990-4b7b-a3aa-ac0b976b5b32,36bfba22-8a8e-4e2f-9379-16ac89c8c24b,Pat 43,VIKRAMJOT CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,4/2/2021 5:45,4/2/2021 5:51,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,Low back pain - 2 months
+024bc160-0990-4b7b-a3aa-ac0b976b5b32,36bfba22-8a8e-4e2f-9379-16ac89c8c24b,Pat 43,VIKRAMJOT CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,4/2/2021 5:45,4/2/2021 5:51,Low back strain ,IBUPROFEN Tablet ,NULL,Low back pain - 2 months
+024bc160-0990-4b7b-a3aa-ac0b976b5b32,36bfba22-8a8e-4e2f-9379-16ac89c8c24b,Pat 43,VIKRAMJOT CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,4/2/2021 5:45,4/2/2021 5:51,Low back strain ,DICLOFENAC SODIUM SR Tablet ,NULL,Low back pain - 2 months
+024bc160-0990-4b7b-a3aa-ac0b976b5b32,36bfba22-8a8e-4e2f-9379-16ac89c8c24b,Pat 43,VIKRAMJOT CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,4/2/2021 5:45,4/2/2021 5:51,Low back strain ,Vitamin D Capsule/ Tablet eq. to elemental zinc,NULL,Low back pain - 2 months
+024bc160-0990-4b7b-a3aa-ac0b976b5b32,36bfba22-8a8e-4e2f-9379-16ac89c8c24b,Pat 43,VIKRAMJOT CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,4/2/2021 5:45,4/2/2021 5:51,Low BACK STRAIN ,Ranitidine Hydrochloride Tablet ,NULL,Low back pain - 2 months
+024bc160-0990-4b7b-a3aa-ac0b976b5b32,36bfba22-8a8e-4e2f-9379-16ac89c8c24b,Pat 43,VIKRAMJOT CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,4/2/2021 5:45,4/2/2021 5:51,Low BACK STRAIN ,LS belt,NULL,Low back pain - 2 months
+024bc160-0990-4b7b-a3aa-ac0b976b5b32,36bfba22-8a8e-4e2f-9379-16ac89c8c24b,Pat 43,VIKRAMJOT CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,4/2/2021 5:45,4/2/2021 5:51,Low BACK STRAIN ,Hot fomentation,NULL,Low back pain - 2 months
+024e8b83-9886-4d1d-9269-cfd8a5dcf140,795e77a5-43e0-45a5-a158-420907e99218,Pat 44,HARRAIYA (BASTI) CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,7/6/2021 8:53,7/6/2021 9:22,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,Low back pain - 10 days
+024e8b83-9886-4d1d-9269-cfd8a5dcf140,795e77a5-43e0-45a5-a158-420907e99218,Pat 44,HARRAIYA (BASTI) CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,7/6/2021 8:53,7/6/2021 9:22,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,Low back pain - 10 days
+024e8b83-9886-4d1d-9269-cfd8a5dcf140,795e77a5-43e0-45a5-a158-420907e99218,Pat 44,HARRAIYA (BASTI) CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,7/6/2021 8:53,7/6/2021 9:22,Low back strain ,DICLOFENAC SODIUM SR Tablet ,NULL,Low back pain - 10 days
+024e8b83-9886-4d1d-9269-cfd8a5dcf140,795e77a5-43e0-45a5-a158-420907e99218,Pat 44,HARRAIYA (BASTI) CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,7/6/2021 8:53,7/6/2021 9:22,Low back strain ,IBUPROFEN Tablet ,NULL,Low back pain - 10 days
+0270b81c-b8c5-4011-8f75-1ab8eb364da2,c69af29e-b74f-4085-87fb-1b5c138f6afc,Pat 45,LOTAN CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,back pain last 1 months,7/16/2021 9:04,7/16/2021 9:06,Low back strain ,PARACETAMOL Tablet ,NULL,Low back pain - 1 month
+0270b81c-b8c5-4011-8f75-1ab8eb364da2,c69af29e-b74f-4085-87fb-1b5c138f6afc,Pat 45,LOTAN CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,back pain last 1 months,7/16/2021 9:04,7/16/2021 9:06,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,Low back pain - 1 month
+0270b81c-b8c5-4011-8f75-1ab8eb364da2,c69af29e-b74f-4085-87fb-1b5c138f6afc,Pat 45,LOTAN CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,back pain last 1 months,7/16/2021 9:04,7/16/2021 9:06,Low back strain ,Calcium Citrate,NULL,Low back pain - 1 month
+0270b81c-b8c5-4011-8f75-1ab8eb364da2,c69af29e-b74f-4085-87fb-1b5c138f6afc,Pat 45,LOTAN CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,back pain last 1 months,7/16/2021 9:04,7/16/2021 9:06,Low back strain ,IBUPROFEN Tablet ,NULL,Low back pain - 1 month
+0270b81c-b8c5-4011-8f75-1ab8eb364da2,c69af29e-b74f-4085-87fb-1b5c138f6afc,Pat 45,LOTAN CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,back pain last 1 months,7/16/2021 9:04,7/16/2021 9:06,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,Low back pain - 1 month
+02a974b7-78d3-45bc-91a1-a77a4dc5e3a3,036e6769-d5c4-44a3-8f22-369f49d5e426,Pat 46,HARNHI CHC,Dr.Yashasvi Bansal,Orthopaedics,Lower-back pain,,LOWER BACK PAIN,6/22/2021 5:43,6/22/2021 9:05,Low back strain ,Vitamin D Capsule/ Tablet eq. to elemental zinc,NULL,"Low back pain - 7 days
+Pain off and on since many months"
+02a974b7-78d3-45bc-91a1-a77a4dc5e3a3,036e6769-d5c4-44a3-8f22-369f49d5e426,Pat 46,HARNHI CHC,Dr.Yashasvi Bansal,Orthopaedics,Lower-back pain,,LOWER BACK PAIN,6/22/2021 5:43,6/22/2021 9:05,Low back strain ,Calcium Citrate,NULL,"Low back pain - 7 days
+Pain off and on since many months"
+02a974b7-78d3-45bc-91a1-a77a4dc5e3a3,036e6769-d5c4-44a3-8f22-369f49d5e426,Pat 46,HARNHI CHC,Dr.Yashasvi Bansal,Orthopaedics,Lower-back pain,,LOWER BACK PAIN,6/22/2021 5:43,6/22/2021 9:05,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,"Low back pain - 7 days
+Pain off and on since many months"
+02a974b7-78d3-45bc-91a1-a77a4dc5e3a3,036e6769-d5c4-44a3-8f22-369f49d5e426,Pat 46,HARNHI CHC,Dr.Yashasvi Bansal,Orthopaedics,Lower-back pain,,LOWER BACK PAIN,6/22/2021 5:43,6/22/2021 9:05,Low back strain ,IBUPROFEN Tablet ,NULL,"Low back pain - 7 days
+Pain off and on since many months"
+02a974b7-78d3-45bc-91a1-a77a4dc5e3a3,036e6769-d5c4-44a3-8f22-369f49d5e426,Pat 46,HARNHI CHC,Dr.Yashasvi Bansal,Orthopaedics,Lower-back pain,,LOWER BACK PAIN,6/22/2021 5:43,6/22/2021 9:05,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,"Low back pain - 7 days
+Pain off and on since many months"
+02a974b7-78d3-45bc-91a1-a77a4dc5e3a3,036e6769-d5c4-44a3-8f22-369f49d5e426,Pat 46,HARNHI CHC,Dr.Yashasvi Bansal,Orthopaedics,Lower-back pain,,LOWER BACK PAIN,6/22/2021 5:43,6/22/2021 9:05,Low BACK STRAIN ,LS Belt,NULL,"Low back pain - 7 days
+Pain off and on since many months"
+02a974b7-78d3-45bc-91a1-a77a4dc5e3a3,036e6769-d5c4-44a3-8f22-369f49d5e426,Pat 46,HARNHI CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,LOWER BACK PAIN,6/22/2021 5:43,6/22/2021 9:05,Low back strain ,Vitamin D Capsule/ Tablet eq. to elemental zinc,NULL,"Low back pain - 7 days
+Pain off and on since many months"
+02a974b7-78d3-45bc-91a1-a77a4dc5e3a3,036e6769-d5c4-44a3-8f22-369f49d5e426,Pat 46,HARNHI CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,LOWER BACK PAIN,6/22/2021 5:43,6/22/2021 9:05,Low back strain ,Calcium Citrate,NULL,"Low back pain - 7 days
+Pain off and on since many months"
+02a974b7-78d3-45bc-91a1-a77a4dc5e3a3,036e6769-d5c4-44a3-8f22-369f49d5e426,Pat 46,HARNHI CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,LOWER BACK PAIN,6/22/2021 5:43,6/22/2021 9:05,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,"Low back pain - 7 days
+Pain off and on since many months"
+02a974b7-78d3-45bc-91a1-a77a4dc5e3a3,036e6769-d5c4-44a3-8f22-369f49d5e426,Pat 46,HARNHI CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,LOWER BACK PAIN,6/22/2021 5:43,6/22/2021 9:05,Low back strain ,IBUPROFEN Tablet ,NULL,"Low back pain - 7 days
+Pain off and on since many months"
+02a974b7-78d3-45bc-91a1-a77a4dc5e3a3,036e6769-d5c4-44a3-8f22-369f49d5e426,Pat 46,HARNHI CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,LOWER BACK PAIN,6/22/2021 5:43,6/22/2021 9:05,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,"Low back pain - 7 days
+Pain off and on since many months"
+02a974b7-78d3-45bc-91a1-a77a4dc5e3a3,036e6769-d5c4-44a3-8f22-369f49d5e426,Pat 46,HARNHI CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,LOWER BACK PAIN,6/22/2021 5:43,6/22/2021 9:05,Low BACK STRAIN ,LS Belt,NULL,"Low back pain - 7 days
+Pain off and on since many months"
+02e3a37f-921f-4877-98e9-55c211bf9f00,08093361-18eb-491e-92e2-fb4cb5047f60,Pat 47,UTRAULA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back Pain ,10/31/2020 6:16,10/31/2020 6:24,Low back strain ,hot fometation,NULL,Low back pain - 3 days
+02e3a37f-921f-4877-98e9-55c211bf9f00,08093361-18eb-491e-92e2-fb4cb5047f60,Pat 47,UTRAULA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back Pain ,10/31/2020 6:16,10/31/2020 6:24,Low back strain ,volitra gel,NULL,Low back pain - 3 days
+02e3a37f-921f-4877-98e9-55c211bf9f00,08093361-18eb-491e-92e2-fb4cb5047f60,Pat 47,UTRAULA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back Pain ,10/31/2020 6:16,10/31/2020 6:24,Low back strain ,razo d,NULL,Low back pain - 3 days
+02e3a37f-921f-4877-98e9-55c211bf9f00,08093361-18eb-491e-92e2-fb4cb5047f60,Pat 47,UTRAULA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back Pain ,10/31/2020 6:16,10/31/2020 6:24,Low back strain ,ZERODOL MR,NULL,Low back pain - 3 days
+03436a03-5e58-416d-8e0a-6a82ef2209d0,946133ac-a149-4905-95b2-3ec009fdb2b3,Pat 48,GAIDAS BUJURG CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,Lower Back Pain,11/9/2021 7:21,11/9/2021 8:21,Low back strain ,Calcium Citrate,NULL,LBA 
+03436a03-5e58-416d-8e0a-6a82ef2209d0,946133ac-a149-4905-95b2-3ec009fdb2b3,Pat 48,GAIDAS BUJURG CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,Lower Back Pain,11/9/2021 7:21,11/9/2021 8:21,Low back strain ,IBUPROFEN Tablet ,NULL,LBA 
+03436a03-5e58-416d-8e0a-6a82ef2209d0,946133ac-a149-4905-95b2-3ec009fdb2b3,Pat 48,GAIDAS BUJURG CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,Lower Back Pain,11/9/2021 7:21,11/9/2021 8:21,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,LBA 
+03436a03-5e58-416d-8e0a-6a82ef2209d0,946133ac-a149-4905-95b2-3ec009fdb2b3,Pat 48,GAIDAS BUJURG CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,Lower Back Pain,11/9/2021 7:21,11/9/2021 8:21,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,LBA 
+03436a03-5e58-416d-8e0a-6a82ef2209d0,946133ac-a149-4905-95b2-3ec009fdb2b3,Pat 48,GAIDAS BUJURG CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,Lower Back Pain,11/9/2021 7:21,11/9/2021 8:21,Low back strain ,PARACETAMOL Tablet ,NULL,LBA 
+03514bf4-7446-4232-a3c7-fa5bb30781a1,8c7731ed-70d8-42e5-80ca-b351dbc1b4d4,Pat 49,COLONELGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain from one week,8/27/2021 8:57,8/27/2021 9:02,Low back strain ,Calcium Citrate,NULL,Low back pain - 7 days
+03514bf4-7446-4232-a3c7-fa5bb30781a1,8c7731ed-70d8-42e5-80ca-b351dbc1b4d4,Pat 49,COLONELGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain from one week,8/27/2021 8:57,8/27/2021 9:02,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,Low back pain - 7 days
+03514bf4-7446-4232-a3c7-fa5bb30781a1,8c7731ed-70d8-42e5-80ca-b351dbc1b4d4,Pat 49,COLONELGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain from one week,8/27/2021 8:57,8/27/2021 9:02,Low back strain ,DICLOFENAC SODIUM SR Tablet ,NULL,Low back pain - 7 days
+03514bf4-7446-4232-a3c7-fa5bb30781a1,8c7731ed-70d8-42e5-80ca-b351dbc1b4d4,Pat 49,COLONELGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain from one week,8/27/2021 8:57,8/27/2021 9:02,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,Low back pain - 7 days
+03514bf4-7446-4232-a3c7-fa5bb30781a1,8c7731ed-70d8-42e5-80ca-b351dbc1b4d4,Pat 49,COLONELGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain from one week,8/27/2021 8:57,8/27/2021 9:02,Low back strain ,IBUPROFEN Tablet ,NULL,Low back pain - 7 days
+035220d1-3ca4-4a22-b482-7b63139b19e3,e3afab95-655e-4130-990d-7e976d703fb4,Pat 50,BHATNI CHC,Dr.Pranav Mahajan,Orthopaedics,Others,waist pain,waist pain,12/7/2021 7:19,12/7/2021 7:25,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,LBA - 5 days
+035220d1-3ca4-4a22-b482-7b63139b19e3,e3afab95-655e-4130-990d-7e976d703fb4,Pat 50,BHATNI CHC,Dr.Pranav Mahajan,Orthopaedics,Others,waist pain,waist pain,12/7/2021 7:19,12/7/2021 7:25,Low back strain ,IBUPROFEN Tablet ,NULL,LBA - 5 days
+035220d1-3ca4-4a22-b482-7b63139b19e3,e3afab95-655e-4130-990d-7e976d703fb4,Pat 50,BHATNI CHC,Dr.Pranav Mahajan,Orthopaedics,Others,waist pain,waist pain,12/7/2021 7:19,12/7/2021 7:25,Low back strain ,DICLOFENAC SODIUM SR Tablet ,NULL,LBA - 5 days
+035220d1-3ca4-4a22-b482-7b63139b19e3,e3afab95-655e-4130-990d-7e976d703fb4,Pat 50,BHATNI CHC,Dr.Pranav Mahajan,Orthopaedics,Others,waist pain,waist pain,12/7/2021 7:19,12/7/2021 7:25,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,LBA - 5 days
+035220d1-3ca4-4a22-b482-7b63139b19e3,e3afab95-655e-4130-990d-7e976d703fb4,Pat 50,BHATNI CHC,Dr.Pranav Mahajan,Orthopaedics,Others,waist pain,waist pain,12/7/2021 7:19,12/7/2021 7:25,Low back strain ,Calcium Citrate,NULL,LBA - 5 days
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Anil Kumar Dubey,General Medicine,Others,acidity and abdominal pain,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Anil Kumar Dubey,General Medicine,Others,acidity and abdominal pain,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,Calcium Citrate,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Anil Kumar Dubey,General Medicine,Others,acidity and abdominal pain,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,DICLOFENAC SODIUM SR Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Anil Kumar Dubey,General Medicine,Others,acidity and abdominal pain,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Anil Kumar Dubey,General Medicine,Others,acidity and abdominal pain,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,IBUPROFEN Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Anil Kumar Dubey,General Medicine,Back pain,,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Anil Kumar Dubey,General Medicine,Back pain,,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,Calcium Citrate,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Anil Kumar Dubey,General Medicine,Back pain,,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,DICLOFENAC SODIUM SR Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Anil Kumar Dubey,General Medicine,Back pain,,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Anil Kumar Dubey,General Medicine,Back pain,,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,IBUPROFEN Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Nikhil Darak,General Medicine,Others,acidity and abdominal pain,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Nikhil Darak,General Medicine,Others,acidity and abdominal pain,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,Calcium Citrate,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Nikhil Darak,General Medicine,Others,acidity and abdominal pain,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,DICLOFENAC SODIUM SR Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Nikhil Darak,General Medicine,Others,acidity and abdominal pain,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Nikhil Darak,General Medicine,Others,acidity and abdominal pain,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,IBUPROFEN Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Nikhil Darak,General Medicine,Back pain,,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Nikhil Darak,General Medicine,Back pain,,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,Calcium Citrate,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Nikhil Darak,General Medicine,Back pain,,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,DICLOFENAC SODIUM SR Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Nikhil Darak,General Medicine,Back pain,,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Nikhil Darak,General Medicine,Back pain,,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,IBUPROFEN Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Rakesh Kumar Kanchal,Gastroenterology,Others,acidity and abdominal pain,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Rakesh Kumar Kanchal,Gastroenterology,Others,acidity and abdominal pain,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,Calcium Citrate,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Rakesh Kumar Kanchal,Gastroenterology,Others,acidity and abdominal pain,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,DICLOFENAC SODIUM SR Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Rakesh Kumar Kanchal,Gastroenterology,Others,acidity and abdominal pain,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Rakesh Kumar Kanchal,Gastroenterology,Others,acidity and abdominal pain,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,IBUPROFEN Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Rakesh Kumar Kanchal,Gastroenterology,Back pain,,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Rakesh Kumar Kanchal,Gastroenterology,Back pain,,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,Calcium Citrate,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Rakesh Kumar Kanchal,Gastroenterology,Back pain,,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,DICLOFENAC SODIUM SR Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Rakesh Kumar Kanchal,Gastroenterology,Back pain,,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Rakesh Kumar Kanchal,Gastroenterology,Back pain,,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,IBUPROFEN Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Pranav Mahajan,Orthopaedics,Others,acidity and abdominal pain,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Pranav Mahajan,Orthopaedics,Others,acidity and abdominal pain,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,Calcium Citrate,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Pranav Mahajan,Orthopaedics,Others,acidity and abdominal pain,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,DICLOFENAC SODIUM SR Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Pranav Mahajan,Orthopaedics,Others,acidity and abdominal pain,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Pranav Mahajan,Orthopaedics,Others,acidity and abdominal pain,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,IBUPROFEN Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Pranav Mahajan,Orthopaedics,Back pain,,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Pranav Mahajan,Orthopaedics,Back pain,,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,Calcium Citrate,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Pranav Mahajan,Orthopaedics,Back pain,,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,DICLOFENAC SODIUM SR Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Pranav Mahajan,Orthopaedics,Back pain,,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+0361840d-81df-411a-bae0-041bcb16886e,77f37f8e-5ff5-4ef7-8ce8-15ff1e82b818,Pat 51,KAPTANGANJ CHC (Basti),Dr.Pranav Mahajan,Orthopaedics,Back pain,,acidity and abdominal pain,12/11/2021 8:55,12/11/2021 9:44,Low back strain ,IBUPROFEN Tablet ,NULL,"LBA
+Acidity and abdominal pain - 10 days"
+036226af-8929-476a-ab7f-988a6796b64e,155ee64b-7960-4d89-8974-dc776adb7d91,Pat 52,VIKRAMJOT CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,11/10/2020 8:12,11/10/2020 9:35,Low back strain ,volitra gel,NULL,NULL
+036226af-8929-476a-ab7f-988a6796b64e,155ee64b-7960-4d89-8974-dc776adb7d91,Pat 52,VIKRAMJOT CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,11/10/2020 8:12,11/10/2020 9:35,Low back strain ,ZERODOL MR,NULL,NULL
+036226af-8929-476a-ab7f-988a6796b64e,155ee64b-7960-4d89-8974-dc776adb7d91,Pat 52,VIKRAMJOT CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,11/10/2020 8:12,11/10/2020 9:35,Low back strain ,razo d,NULL,NULL
+036226af-8929-476a-ab7f-988a6796b64e,155ee64b-7960-4d89-8974-dc776adb7d91,Pat 52,VIKRAMJOT CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,11/10/2020 8:12,11/10/2020 9:35,Low back strain ,evion lc BD ,NULL,NULL
+036226af-8929-476a-ab7f-988a6796b64e,155ee64b-7960-4d89-8974-dc776adb7d91,Pat 52,VIKRAMJOT CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,11/10/2020 8:12,11/10/2020 9:35,Low back strain ,hot fometation,NULL,NULL
+036226af-8929-476a-ab7f-988a6796b64e,155ee64b-7960-4d89-8974-dc776adb7d91,Pat 52,VIKRAMJOT CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,11/10/2020 8:12,11/10/2020 9:35,Low back strain ,SHELCAL XT,NULL,NULL
+0379afc0-d45c-453d-8a85-42d11ace5ad5,fb9073ec-1376-4ef7-b271-424b31b9996c,Pat 53,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,10/14/2020 5:40,10/14/2020 6:18,Low back strain ,hot fometation,NULL,"Low back pain - 5 days
+No trauma"
+0379afc0-d45c-453d-8a85-42d11ace5ad5,fb9073ec-1376-4ef7-b271-424b31b9996c,Pat 53,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,10/14/2020 5:40,10/14/2020 6:18,Low back strain ,SHELCAL XT,NULL,"Low back pain - 5 days
+No trauma"
+0379afc0-d45c-453d-8a85-42d11ace5ad5,fb9073ec-1376-4ef7-b271-424b31b9996c,Pat 53,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,10/14/2020 5:40,10/14/2020 6:18,Low back strain ,volitra gel,NULL,"Low back pain - 5 days
+No trauma"
+0379afc0-d45c-453d-8a85-42d11ace5ad5,fb9073ec-1376-4ef7-b271-424b31b9996c,Pat 53,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,10/14/2020 5:40,10/14/2020 6:18,Low back strain ,etoshine mr 60mg BD,NULL,"Low back pain - 5 days
+No trauma"
+0379afc0-d45c-453d-8a85-42d11ace5ad5,fb9073ec-1376-4ef7-b271-424b31b9996c,Pat 53,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,10/14/2020 5:40,10/14/2020 6:18,Low back strain ,razo d,NULL,"Low back pain - 5 days
+No trauma"
+0379afc0-d45c-453d-8a85-42d11ace5ad5,fb9073ec-1376-4ef7-b271-424b31b9996c,Pat 53,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,10/14/2020 5:40,10/14/2020 6:18,Low back strain ,evion lc BD ,NULL,"Low back pain - 5 days
+No trauma"
+038d1fbb-fb5a-4856-8351-1071a5a357f9,dbd44374-e7bf-4ddf-a08d-7fe5b052007c,Pat 54,FATEHPUR MANDAW CHC,Dr.Nikhil Darak,General Medicine,Lower-back pain,,FEVER,9/20/2021 7:12,9/20/2021 9:57,Low back strain ,Calcium Citrate,NULL,Low back pain - 2 days
+038d1fbb-fb5a-4856-8351-1071a5a357f9,dbd44374-e7bf-4ddf-a08d-7fe5b052007c,Pat 54,FATEHPUR MANDAW CHC,Dr.Nikhil Darak,General Medicine,Lower-back pain,,FEVER,9/20/2021 7:12,9/20/2021 9:57,Low back strain ,PARACETAMOL Tablet ,NULL,Low back pain - 2 days
+038d1fbb-fb5a-4856-8351-1071a5a357f9,dbd44374-e7bf-4ddf-a08d-7fe5b052007c,Pat 54,FATEHPUR MANDAW CHC,Dr.Nikhil Darak,General Medicine,Lower-back pain,,FEVER,9/20/2021 7:12,9/20/2021 9:57,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,Low back pain - 2 days
+038d1fbb-fb5a-4856-8351-1071a5a357f9,dbd44374-e7bf-4ddf-a08d-7fe5b052007c,Pat 54,FATEHPUR MANDAW CHC,Dr.Nikhil Darak,General Medicine,Lower-back pain,,FEVER,9/20/2021 7:12,9/20/2021 9:57,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,Low back pain - 2 days
+038d1fbb-fb5a-4856-8351-1071a5a357f9,dbd44374-e7bf-4ddf-a08d-7fe5b052007c,Pat 54,FATEHPUR MANDAW CHC,Dr.Nikhil Darak,General Medicine,Lower-back pain,,FEVER,9/20/2021 7:12,9/20/2021 9:57,Low back strain ,IBUPROFEN Tablet ,NULL,Low back pain - 2 days
+038d1fbb-fb5a-4856-8351-1071a5a357f9,dbd44374-e7bf-4ddf-a08d-7fe5b052007c,Pat 54,FATEHPUR MANDAW CHC,Dr.Vineet Jain,General Medicine,Lower-back pain,,FEVER,9/20/2021 7:12,9/20/2021 9:57,Low back strain ,Calcium Citrate,NULL,Low back pain - 2 days
+038d1fbb-fb5a-4856-8351-1071a5a357f9,dbd44374-e7bf-4ddf-a08d-7fe5b052007c,Pat 54,FATEHPUR MANDAW CHC,Dr.Vineet Jain,General Medicine,Lower-back pain,,FEVER,9/20/2021 7:12,9/20/2021 9:57,Low back strain ,PARACETAMOL Tablet ,NULL,Low back pain - 2 days
+038d1fbb-fb5a-4856-8351-1071a5a357f9,dbd44374-e7bf-4ddf-a08d-7fe5b052007c,Pat 54,FATEHPUR MANDAW CHC,Dr.Vineet Jain,General Medicine,Lower-back pain,,FEVER,9/20/2021 7:12,9/20/2021 9:57,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,Low back pain - 2 days
+038d1fbb-fb5a-4856-8351-1071a5a357f9,dbd44374-e7bf-4ddf-a08d-7fe5b052007c,Pat 54,FATEHPUR MANDAW CHC,Dr.Vineet Jain,General Medicine,Lower-back pain,,FEVER,9/20/2021 7:12,9/20/2021 9:57,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,Low back pain - 2 days
+038d1fbb-fb5a-4856-8351-1071a5a357f9,dbd44374-e7bf-4ddf-a08d-7fe5b052007c,Pat 54,FATEHPUR MANDAW CHC,Dr.Vineet Jain,General Medicine,Lower-back pain,,FEVER,9/20/2021 7:12,9/20/2021 9:57,Low back strain ,IBUPROFEN Tablet ,NULL,Low back pain - 2 days
+038d1fbb-fb5a-4856-8351-1071a5a357f9,dbd44374-e7bf-4ddf-a08d-7fe5b052007c,Pat 54,FATEHPUR MANDAW CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,FEVER,9/20/2021 7:12,9/20/2021 9:57,Low back strain ,Calcium Citrate,NULL,Low back pain - 2 days
+038d1fbb-fb5a-4856-8351-1071a5a357f9,dbd44374-e7bf-4ddf-a08d-7fe5b052007c,Pat 54,FATEHPUR MANDAW CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,FEVER,9/20/2021 7:12,9/20/2021 9:57,Low back strain ,PARACETAMOL Tablet ,NULL,Low back pain - 2 days
+038d1fbb-fb5a-4856-8351-1071a5a357f9,dbd44374-e7bf-4ddf-a08d-7fe5b052007c,Pat 54,FATEHPUR MANDAW CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,FEVER,9/20/2021 7:12,9/20/2021 9:57,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,Low back pain - 2 days
+038d1fbb-fb5a-4856-8351-1071a5a357f9,dbd44374-e7bf-4ddf-a08d-7fe5b052007c,Pat 54,FATEHPUR MANDAW CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,FEVER,9/20/2021 7:12,9/20/2021 9:57,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,Low back pain - 2 days
+038d1fbb-fb5a-4856-8351-1071a5a357f9,dbd44374-e7bf-4ddf-a08d-7fe5b052007c,Pat 54,FATEHPUR MANDAW CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,FEVER,9/20/2021 7:12,9/20/2021 9:57,Low back strain ,IBUPROFEN Tablet ,NULL,Low back pain - 2 days
+03bd4365-e50e-43ab-84fd-5c7b9a040b01,c72b2220-4d62-4520-8a41-c37d52118e74,Pat 55,HAISAR BAZAR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,7/3/2021 8:23,7/3/2021 10:15,Low BACK STRAIN ,PARACETAMOL Tablet ,NULL,LOW BACK PAIN 
+03bd4365-e50e-43ab-84fd-5c7b9a040b01,c72b2220-4d62-4520-8a41-c37d52118e74,Pat 55,HAISAR BAZAR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,7/3/2021 8:23,7/3/2021 10:15,Low BACK STRAIN ,DICLOFENAC GEL Diclofenac Sodium,NULL,LOW BACK PAIN 
+03bd4365-e50e-43ab-84fd-5c7b9a040b01,c72b2220-4d62-4520-8a41-c37d52118e74,Pat 55,HAISAR BAZAR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,7/3/2021 8:23,7/3/2021 10:15,Low BACK STRAIN ,Ranitidine Hydrochloride Tablet ,NULL,LOW BACK PAIN 
+03bd4365-e50e-43ab-84fd-5c7b9a040b01,c72b2220-4d62-4520-8a41-c37d52118e74,Pat 55,HAISAR BAZAR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,7/3/2021 8:23,7/3/2021 10:15,Low BACK STRAIN ,IBUPROFEN Tablet ,NULL,LOW BACK PAIN 
+03cb7520-9daa-4e2d-8282-9ed1d26f6de8,46eb1c69-7868-45af-bdba-278dd3d49d78,Pat 56,COLONELGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Others,,Back pain from 2 week,10/31/2020 7:28,10/31/2020 7:37,Low back strain ,razo d,NULL,Pain low back - 2 weeks
+03cb7520-9daa-4e2d-8282-9ed1d26f6de8,46eb1c69-7868-45af-bdba-278dd3d49d78,Pat 56,COLONELGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Others,,Back pain from 2 week,10/31/2020 7:28,10/31/2020 7:37,Low back strain ,volitra gel,NULL,Pain low back - 2 weeks
+03cb7520-9daa-4e2d-8282-9ed1d26f6de8,46eb1c69-7868-45af-bdba-278dd3d49d78,Pat 56,COLONELGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Others,,Back pain from 2 week,10/31/2020 7:28,10/31/2020 7:37,Low back strain ,hot fometation,NULL,Pain low back - 2 weeks
+03cb7520-9daa-4e2d-8282-9ed1d26f6de8,46eb1c69-7868-45af-bdba-278dd3d49d78,Pat 56,COLONELGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Others,,Back pain from 2 week,10/31/2020 7:28,10/31/2020 7:37,Low back strain ,evion lc BD ,NULL,Pain low back - 2 weeks
+03d1bfbd-6386-42f3-8de3-f5a135bcf018,1475031a-efe0-487b-9ac5-f93baf016e1c,Pat 57,LAXMIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,lower back pain last 3 months,3/12/2021 8:50,3/12/2021 8:53,Low back strain ,DICLOFENAC SODIUM SR Tablet ,NULL,"Low back pain - 3 months
+No trauma"
+03d1bfbd-6386-42f3-8de3-f5a135bcf018,1475031a-efe0-487b-9ac5-f93baf016e1c,Pat 57,LAXMIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,lower back pain last 3 months,3/12/2021 8:50,3/12/2021 8:53,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,"Low back pain - 3 months
+No trauma"
+03d1bfbd-6386-42f3-8de3-f5a135bcf018,1475031a-efe0-487b-9ac5-f93baf016e1c,Pat 57,LAXMIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,lower back pain last 3 months,3/12/2021 8:50,3/12/2021 8:53,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,"Low back pain - 3 months
+No trauma"
+03d1bfbd-6386-42f3-8de3-f5a135bcf018,1475031a-efe0-487b-9ac5-f93baf016e1c,Pat 57,LAXMIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,lower back pain last 3 months,3/12/2021 8:50,3/12/2021 8:53,Low back strain ,Vitamin D Capsule/ Tablet eq. to elemental zinc,NULL,"Low back pain - 3 months
+No trauma"
+03d1bfbd-6386-42f3-8de3-f5a135bcf018,1475031a-efe0-487b-9ac5-f93baf016e1c,Pat 57,LAXMIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,lower back pain last 3 months,3/12/2021 8:50,3/12/2021 8:53,Low back strain ,Calcium Citrate,NULL,"Low back pain - 3 months
+No trauma"
+03d5cbb0-2615-4536-b39e-f2933a2b8831,4a9d189b-4aa2-41a9-8ce0-ac02fd1b1fe1,Pat 58,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,10/9/2020 5:52,10/9/2020 6:28,Low back strain ,razo d,NULL,"Low back pain - 8 days
+No trauma"
+03d5cbb0-2615-4536-b39e-f2933a2b8831,4a9d189b-4aa2-41a9-8ce0-ac02fd1b1fe1,Pat 58,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,10/9/2020 5:52,10/9/2020 6:28,Low back strain ,hot fometation,NULL,"Low back pain - 8 days
+No trauma"
+03d5cbb0-2615-4536-b39e-f2933a2b8831,4a9d189b-4aa2-41a9-8ce0-ac02fd1b1fe1,Pat 58,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,10/9/2020 5:52,10/9/2020 6:28,Low back strain ,SHELCAL XT,NULL,"Low back pain - 8 days
+No trauma"
+03d5cbb0-2615-4536-b39e-f2933a2b8831,4a9d189b-4aa2-41a9-8ce0-ac02fd1b1fe1,Pat 58,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,10/9/2020 5:52,10/9/2020 6:28,Low back strain ,ZERODOL MR,NULL,"Low back pain - 8 days
+No trauma"
+03d5cbb0-2615-4536-b39e-f2933a2b8831,4a9d189b-4aa2-41a9-8ce0-ac02fd1b1fe1,Pat 58,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,10/9/2020 5:52,10/9/2020 6:28,Low back strain ,evion lc BD ,NULL,"Low back pain - 8 days
+No trauma"
+03d5cbb0-2615-4536-b39e-f2933a2b8831,4a9d189b-4aa2-41a9-8ce0-ac02fd1b1fe1,Pat 58,DUBHAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,back pain,back pain,10/9/2020 5:52,10/9/2020 6:28,Low back strain ,volitra gel,NULL,"Low back pain - 8 days
+No trauma"
+041ec31d-5fc3-4467-a6b5-9f94b37adc05,84553f73-09b3-4147-bb9f-d8667a6155b8,Pat 59,LAXMIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain 10 day,12/13/2021 8:36,12/13/2021 8:42,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,LBA 
+041ec31d-5fc3-4467-a6b5-9f94b37adc05,84553f73-09b3-4147-bb9f-d8667a6155b8,Pat 59,LAXMIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain 10 day,12/13/2021 8:36,12/13/2021 8:42,Low back strain ,IBUPROFEN Tablet ,NULL,LBA 
+041ec31d-5fc3-4467-a6b5-9f94b37adc05,84553f73-09b3-4147-bb9f-d8667a6155b8,Pat 59,LAXMIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain 10 day,12/13/2021 8:36,12/13/2021 8:42,Low back strain ,Calcium Citrate,NULL,LBA 
+041ec31d-5fc3-4467-a6b5-9f94b37adc05,84553f73-09b3-4147-bb9f-d8667a6155b8,Pat 59,LAXMIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain 10 day,12/13/2021 8:36,12/13/2021 8:42,Low back strain ,DICLOFENAC SODIUM SR Tablet ,NULL,LBA 
+041ec31d-5fc3-4467-a6b5-9f94b37adc05,84553f73-09b3-4147-bb9f-d8667a6155b8,Pat 59,LAXMIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain 10 day,12/13/2021 8:36,12/13/2021 8:42,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,LBA 
+04387b1d-c2c1-4f7e-baaf-b9c3f25f3f91,336b9f65-5462-44b9-9d6a-eb8e8e082d42,Pat 60,KAURIRAM PHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain ,11/6/2020 7:27,11/6/2020 7:36,Low back strain ,evion lc BD ,NULL,Low back pain - 10 days
+04387b1d-c2c1-4f7e-baaf-b9c3f25f3f91,336b9f65-5462-44b9-9d6a-eb8e8e082d42,Pat 60,KAURIRAM PHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain ,11/6/2020 7:27,11/6/2020 7:36,Low back strain ,etoshine mr 60mg BD,NULL,Low back pain - 10 days
+04387b1d-c2c1-4f7e-baaf-b9c3f25f3f91,336b9f65-5462-44b9-9d6a-eb8e8e082d42,Pat 60,KAURIRAM PHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain ,11/6/2020 7:27,11/6/2020 7:36,Low back strain ,hot fometation,NULL,Low back pain - 10 days
+04387b1d-c2c1-4f7e-baaf-b9c3f25f3f91,336b9f65-5462-44b9-9d6a-eb8e8e082d42,Pat 60,KAURIRAM PHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain ,11/6/2020 7:27,11/6/2020 7:36,Low back strain ,volitra gel,NULL,Low back pain - 10 days
+04387b1d-c2c1-4f7e-baaf-b9c3f25f3f91,336b9f65-5462-44b9-9d6a-eb8e8e082d42,Pat 60,KAURIRAM PHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain ,11/6/2020 7:27,11/6/2020 7:36,Low back strain ,razo d,NULL,Low back pain - 10 days
+04387b1d-c2c1-4f7e-baaf-b9c3f25f3f91,336b9f65-5462-44b9-9d6a-eb8e8e082d42,Pat 60,KAURIRAM PHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain ,11/6/2020 7:27,11/6/2020 7:36,Low back strain ,shelcal 500mg OD,NULL,Low back pain - 10 days
+04547a7b-7278-442d-b01b-621385f5cddf,d30b25eb-44fc-467a-94e8-daf518e66e88,Pat 61,LAXMIPUR CHC,Dr.Varun Aggarwal,Orthopaedics,Back pain,,back pain last 10 days,7/16/2021 8:10,7/16/2021 8:48,Low back strain ,PARACETAMOL Tablet ,NULL,Low back pain - 10 days
+04547a7b-7278-442d-b01b-621385f5cddf,d30b25eb-44fc-467a-94e8-daf518e66e88,Pat 61,LAXMIPUR CHC,Dr.Varun Aggarwal,Orthopaedics,Back pain,,back pain last 10 days,7/16/2021 8:10,7/16/2021 8:48,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,Low back pain - 10 days
+04547a7b-7278-442d-b01b-621385f5cddf,d30b25eb-44fc-467a-94e8-daf518e66e88,Pat 61,LAXMIPUR CHC,Dr.Varun Aggarwal,Orthopaedics,Back pain,,back pain last 10 days,7/16/2021 8:10,7/16/2021 8:48,Low back strain ,Calcium Citrate,NULL,Low back pain - 10 days
+04547a7b-7278-442d-b01b-621385f5cddf,d30b25eb-44fc-467a-94e8-daf518e66e88,Pat 61,LAXMIPUR CHC,Dr.Varun Aggarwal,Orthopaedics,Back pain,,back pain last 10 days,7/16/2021 8:10,7/16/2021 8:48,Low back strain ,IBUPROFEN Tablet ,NULL,Low back pain - 10 days
+04547a7b-7278-442d-b01b-621385f5cddf,d30b25eb-44fc-467a-94e8-daf518e66e88,Pat 61,LAXMIPUR CHC,Dr.Varun Aggarwal,Orthopaedics,Back pain,,back pain last 10 days,7/16/2021 8:10,7/16/2021 8:48,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,Low back pain - 10 days
+04547a7b-7278-442d-b01b-621385f5cddf,d30b25eb-44fc-467a-94e8-daf518e66e88,Pat 61,LAXMIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain last 10 days,7/16/2021 8:10,7/16/2021 8:48,Low back strain ,PARACETAMOL Tablet ,NULL,Low back pain - 10 days
+04547a7b-7278-442d-b01b-621385f5cddf,d30b25eb-44fc-467a-94e8-daf518e66e88,Pat 61,LAXMIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain last 10 days,7/16/2021 8:10,7/16/2021 8:48,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,Low back pain - 10 days
+04547a7b-7278-442d-b01b-621385f5cddf,d30b25eb-44fc-467a-94e8-daf518e66e88,Pat 61,LAXMIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain last 10 days,7/16/2021 8:10,7/16/2021 8:48,Low back strain ,Calcium Citrate,NULL,Low back pain - 10 days
+04547a7b-7278-442d-b01b-621385f5cddf,d30b25eb-44fc-467a-94e8-daf518e66e88,Pat 61,LAXMIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain last 10 days,7/16/2021 8:10,7/16/2021 8:48,Low back strain ,IBUPROFEN Tablet ,NULL,Low back pain - 10 days
+04547a7b-7278-442d-b01b-621385f5cddf,d30b25eb-44fc-467a-94e8-daf518e66e88,Pat 61,LAXMIPUR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain last 10 days,7/16/2021 8:10,7/16/2021 8:48,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,Low back pain - 10 days
+046538bd-aeef-4969-9353-4c9fd28a98f6,3c023f23-99e0-4e6f-a838-2d5e08e1b0c1,Pat 62,SEEYAR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,10/19/2020 11:07,10/19/2020 11:19,Low back strain ,volitra gel,NULL,Low back pain - 1 month
+046538bd-aeef-4969-9353-4c9fd28a98f6,3c023f23-99e0-4e6f-a838-2d5e08e1b0c1,Pat 62,SEEYAR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,10/19/2020 11:07,10/19/2020 11:19,Low back strain ,ZERODOL MR,NULL,Low back pain - 1 month
+046538bd-aeef-4969-9353-4c9fd28a98f6,3c023f23-99e0-4e6f-a838-2d5e08e1b0c1,Pat 62,SEEYAR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,10/19/2020 11:07,10/19/2020 11:19,Low back strain ,evion lc BD ,NULL,Low back pain - 1 month
+046538bd-aeef-4969-9353-4c9fd28a98f6,3c023f23-99e0-4e6f-a838-2d5e08e1b0c1,Pat 62,SEEYAR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,10/19/2020 11:07,10/19/2020 11:19,Low back strain ,razo d,NULL,Low back pain - 1 month
+046538bd-aeef-4969-9353-4c9fd28a98f6,3c023f23-99e0-4e6f-a838-2d5e08e1b0c1,Pat 62,SEEYAR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,10/19/2020 11:07,10/19/2020 11:19,Low back strain ,hot fometation,NULL,Low back pain - 1 month
+0470325e-dc3b-4cef-ad7c-8e65aead19e4,25d649c2-702c-41d3-96c5-9064de8fc81f,Pat 63,SISWA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain 1 months problem,12/7/2021 8:36,12/7/2021 8:54,Low back strain ,Calcium Citrate,NULL,NULL
+0470325e-dc3b-4cef-ad7c-8e65aead19e4,25d649c2-702c-41d3-96c5-9064de8fc81f,Pat 63,SISWA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain 1 months problem,12/7/2021 8:36,12/7/2021 8:54,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,NULL
+0470325e-dc3b-4cef-ad7c-8e65aead19e4,25d649c2-702c-41d3-96c5-9064de8fc81f,Pat 63,SISWA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain 1 months problem,12/7/2021 8:36,12/7/2021 8:54,Low back strain ,IBUPROFEN Tablet ,NULL,NULL
+0470325e-dc3b-4cef-ad7c-8e65aead19e4,25d649c2-702c-41d3-96c5-9064de8fc81f,Pat 63,SISWA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain 1 months problem,12/7/2021 8:36,12/7/2021 8:54,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,NULL
+0470325e-dc3b-4cef-ad7c-8e65aead19e4,25d649c2-702c-41d3-96c5-9064de8fc81f,Pat 63,SISWA CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain 1 months problem,12/7/2021 8:36,12/7/2021 8:54,Low back strain ,PARACETAMOL Tablet ,NULL,NULL
+04e757d5-f480-478e-8608-2c34025dc009,0a6769ac-0071-41d0-9fec-9a816ca748f4,Pat 64,SAUGHAT CHC,Dr.Nikhil Darak,General Medicine,Back pain,,head pain,8/16/2021 6:53,8/16/2021 9:57,Low back strain ,Calcium Citrate,NULL,Low back pain - 12 adys
+04e757d5-f480-478e-8608-2c34025dc009,0a6769ac-0071-41d0-9fec-9a816ca748f4,Pat 64,SAUGHAT CHC,Dr.Nikhil Darak,General Medicine,Back pain,,head pain,8/16/2021 6:53,8/16/2021 9:57,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,Low back pain - 12 adys
+04e757d5-f480-478e-8608-2c34025dc009,0a6769ac-0071-41d0-9fec-9a816ca748f4,Pat 64,SAUGHAT CHC,Dr.Nikhil Darak,General Medicine,Back pain,,head pain,8/16/2021 6:53,8/16/2021 9:57,Low back strain ,Vitamin D Capsule/ Tablet eq. to elemental zinc,NULL,Low back pain - 12 adys
+04e757d5-f480-478e-8608-2c34025dc009,0a6769ac-0071-41d0-9fec-9a816ca748f4,Pat 64,SAUGHAT CHC,Dr.Nikhil Darak,General Medicine,Back pain,,head pain,8/16/2021 6:53,8/16/2021 9:57,Low back strain ,IBUPROFEN Tablet ,NULL,Low back pain - 12 adys
+04e757d5-f480-478e-8608-2c34025dc009,0a6769ac-0071-41d0-9fec-9a816ca748f4,Pat 64,SAUGHAT CHC,Dr.Nikhil Darak,General Medicine,Back pain,,head pain,8/16/2021 6:53,8/16/2021 9:57,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,Low back pain - 12 adys
+04e757d5-f480-478e-8608-2c34025dc009,0a6769ac-0071-41d0-9fec-9a816ca748f4,Pat 64,SAUGHAT CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,head pain,8/16/2021 6:53,8/16/2021 9:57,Low back strain ,Calcium Citrate,NULL,Low back pain - 12 adys
+04e757d5-f480-478e-8608-2c34025dc009,0a6769ac-0071-41d0-9fec-9a816ca748f4,Pat 64,SAUGHAT CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,head pain,8/16/2021 6:53,8/16/2021 9:57,Low back strain ,Ranitidine Hydrochloride Tablet ,NULL,Low back pain - 12 adys
+04e757d5-f480-478e-8608-2c34025dc009,0a6769ac-0071-41d0-9fec-9a816ca748f4,Pat 64,SAUGHAT CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,head pain,8/16/2021 6:53,8/16/2021 9:57,Low back strain ,Vitamin D Capsule/ Tablet eq. to elemental zinc,NULL,Low back pain - 12 adys
+04e757d5-f480-478e-8608-2c34025dc009,0a6769ac-0071-41d0-9fec-9a816ca748f4,Pat 64,SAUGHAT CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,head pain,8/16/2021 6:53,8/16/2021 9:57,Low back strain ,IBUPROFEN Tablet ,NULL,Low back pain - 12 adys
+04e757d5-f480-478e-8608-2c34025dc009,0a6769ac-0071-41d0-9fec-9a816ca748f4,Pat 64,SAUGHAT CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,head pain,8/16/2021 6:53,8/16/2021 9:57,Low back strain ,DICLOFENAC GEL Diclofenac Sodium,NULL,Low back pain - 12 adys
+04ed9969-7122-4188-b7b0-25ccdecdae48,333f6db2-bbc4-4bdd-91bd-4b35f970e988,Pat 65,BRIJMANGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,10/19/2020 5:55,10/19/2020 6:26,Low back strain ,zerodol mr,NULL,"Low back pain - 1 month
+No trauma"
+04ed9969-7122-4188-b7b0-25ccdecdae48,333f6db2-bbc4-4bdd-91bd-4b35f970e988,Pat 65,BRIJMANGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,10/19/2020 5:55,10/19/2020 6:26,Low back strain ,evion lc BD ,NULL,"Low back pain - 1 month
+No trauma"
+04ed9969-7122-4188-b7b0-25ccdecdae48,333f6db2-bbc4-4bdd-91bd-4b35f970e988,Pat 65,BRIJMANGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,10/19/2020 5:55,10/19/2020 6:26,Low back strain ,hot fometation,NULL,"Low back pain - 1 month
+No trauma"
+04ed9969-7122-4188-b7b0-25ccdecdae48,333f6db2-bbc4-4bdd-91bd-4b35f970e988,Pat 65,BRIJMANGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,10/19/2020 5:55,10/19/2020 6:26,Low back strain ,SHELCAL XT,NULL,"Low back pain - 1 month
+No trauma"
+04ed9969-7122-4188-b7b0-25ccdecdae48,333f6db2-bbc4-4bdd-91bd-4b35f970e988,Pat 65,BRIJMANGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,10/19/2020 5:55,10/19/2020 6:26,Low back strain ,LS BELT ,NULL,"Low back pain - 1 month
+No trauma"
+04ed9969-7122-4188-b7b0-25ccdecdae48,333f6db2-bbc4-4bdd-91bd-4b35f970e988,Pat 65,BRIJMANGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,10/19/2020 5:55,10/19/2020 6:26,Low back strain ,razo d,NULL,"Low back pain - 1 month
+No trauma"
+04ed9969-7122-4188-b7b0-25ccdecdae48,333f6db2-bbc4-4bdd-91bd-4b35f970e988,Pat 65,BRIJMANGANJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,back pain,10/19/2020 5:55,10/19/2020 6:26,Low back strain ,volitra gel,NULL,"Low back pain - 1 month
+No trauma"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Others,weakness,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,Vitamin D Capsule/ Tablet eq. to elemental zinc,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Others,weakness,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,IBUPROFEN Tablet ,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Others,weakness,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,DICLOFENAC SODIUM SR Tablet ,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Others,weakness,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,Methylcobalamine (B12) Tablet,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Others,weakness,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,Ranitidine Hydrochloride Tablet ,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Others,weakness,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,Calcium Citrate,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Others,weakness,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,DICLOFENAC GEL Diclofenac Sodium,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Pain radiating to the leg,,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,Vitamin D Capsule/ Tablet eq. to elemental zinc,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Pain radiating to the leg,,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,IBUPROFEN Tablet ,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Pain radiating to the leg,,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,DICLOFENAC SODIUM SR Tablet ,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Pain radiating to the leg,,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,Methylcobalamine (B12) Tablet,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Pain radiating to the leg,,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,Ranitidine Hydrochloride Tablet ,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Pain radiating to the leg,,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,Calcium Citrate,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Pain radiating to the leg,,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,DICLOFENAC GEL Diclofenac Sodium,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Shortness of breath,,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,Vitamin D Capsule/ Tablet eq. to elemental zinc,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Shortness of breath,,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,IBUPROFEN Tablet ,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Shortness of breath,,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,DICLOFENAC SODIUM SR Tablet ,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Shortness of breath,,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,Methylcobalamine (B12) Tablet,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Shortness of breath,,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,Ranitidine Hydrochloride Tablet ,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Shortness of breath,,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,Calcium Citrate,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Shortness of breath,,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,DICLOFENAC GEL Diclofenac Sodium,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,Vitamin D Capsule/ Tablet eq. to elemental zinc,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,IBUPROFEN Tablet ,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,DICLOFENAC SODIUM SR Tablet ,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,Methylcobalamine (B12) Tablet,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,Ranitidine Hydrochloride Tablet ,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,Calcium Citrate,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+0094ce00-b64b-4963-9373-6f7d8a120b4d,ff8b3a8b-adae-49e8-9e2c-3620b918635e,Pat 66,KUBERNATH CHC,Dr.Pranav Mahajan,Orthopaedics,Lower-back pain,,"leg pain , low back pain , shortness of breath , weakness , acidity",4/10/2021 7:43,4/10/2021 7:50,Low back strain ? PIVD,DICLOFENAC GEL Diclofenac Sodium,NULL,"Pain lower back radiating to B/l LL - 1 month
+Diff in working"
+011654d9-b7f3-4629-bbf4-49e19fefab1a,d9c8d15a-5884-49c3-baf4-1d2e9dbfa90a,Pat 67,ITWA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK PAIN AND LEG PAIN,BACK PAIN LEG PAIN,3/1/2021 10:30,3/1/2021 10:33,Low back strain ? PIVD,DICLOFENAC GEL Diclofenac Sodium,NULL,"Pain lower back radiating to Rt lower limb - 1 month
+No tingling numbness"
+011654d9-b7f3-4629-bbf4-49e19fefab1a,d9c8d15a-5884-49c3-baf4-1d2e9dbfa90a,Pat 67,ITWA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK PAIN AND LEG PAIN,BACK PAIN LEG PAIN,3/1/2021 10:30,3/1/2021 10:33,Low back strain ? PIVD,Calcium Citrate,NULL,"Pain lower back radiating to Rt lower limb - 1 month
+No tingling numbness"
+011654d9-b7f3-4629-bbf4-49e19fefab1a,d9c8d15a-5884-49c3-baf4-1d2e9dbfa90a,Pat 67,ITWA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK PAIN AND LEG PAIN,BACK PAIN LEG PAIN,3/1/2021 10:30,3/1/2021 10:33,Low back strain ? PIVD,Ranitidine Hydrochloride Tablet ,NULL,"Pain lower back radiating to Rt lower limb - 1 month
+No tingling numbness"
+011654d9-b7f3-4629-bbf4-49e19fefab1a,d9c8d15a-5884-49c3-baf4-1d2e9dbfa90a,Pat 67,ITWA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK PAIN AND LEG PAIN,BACK PAIN LEG PAIN,3/1/2021 10:30,3/1/2021 10:33,Low back strain ? PIVD,Vitamin D Capsule/ Tablet eq. to elemental zinc,NULL,"Pain lower back radiating to Rt lower limb - 1 month
+No tingling numbness"
+011654d9-b7f3-4629-bbf4-49e19fefab1a,d9c8d15a-5884-49c3-baf4-1d2e9dbfa90a,Pat 67,ITWA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK PAIN AND LEG PAIN,BACK PAIN LEG PAIN,3/1/2021 10:30,3/1/2021 10:33,Low back strain ? PIVD,IBUPROFEN Tablet ,NULL,"Pain lower back radiating to Rt lower limb - 1 month
+No tingling numbness"
+011654d9-b7f3-4629-bbf4-49e19fefab1a,d9c8d15a-5884-49c3-baf4-1d2e9dbfa90a,Pat 67,ITWA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK PAIN AND LEG PAIN,BACK PAIN LEG PAIN,3/1/2021 10:30,3/1/2021 10:33,Low BACK STRAIN ? PIVD,Avoid heavy work,NULL,"Pain lower back radiating to Rt lower limb - 1 month
+No tingling numbness"
+011654d9-b7f3-4629-bbf4-49e19fefab1a,d9c8d15a-5884-49c3-baf4-1d2e9dbfa90a,Pat 67,ITWA CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK PAIN AND LEG PAIN,BACK PAIN LEG PAIN,3/1/2021 10:30,3/1/2021 10:33,Low BACK STRAIN ? PIVD,Hot fomentation,NULL,"Pain lower back radiating to Rt lower limb - 1 month
+No tingling numbness"
+01adb7a3-072a-4882-bf2c-ac7dd1d9e667,7420588f-bfa0-4ac5-8f22-47cea01df3cb,Pat 68,NANDNAGAR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,4/9/2021 6:09,4/9/2021 6:16,Low back strain ? PIVD,IBUPROFEN Tablet ,NULL,Low back pain
+01adb7a3-072a-4882-bf2c-ac7dd1d9e667,7420588f-bfa0-4ac5-8f22-47cea01df3cb,Pat 68,NANDNAGAR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,4/9/2021 6:09,4/9/2021 6:16,Low back strain ? PIVD,Methylcobalamine (B12) Tablet,NULL,Low back pain
+01adb7a3-072a-4882-bf2c-ac7dd1d9e667,7420588f-bfa0-4ac5-8f22-47cea01df3cb,Pat 68,NANDNAGAR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,4/9/2021 6:09,4/9/2021 6:16,Low back strain ? PIVD,Vitamin D Capsule/ Tablet eq. to elemental zinc,NULL,Low back pain
+01adb7a3-072a-4882-bf2c-ac7dd1d9e667,7420588f-bfa0-4ac5-8f22-47cea01df3cb,Pat 68,NANDNAGAR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,4/9/2021 6:09,4/9/2021 6:16,Low back strain ? PIVD,Ranitidine Hydrochloride Tablet ,NULL,Low back pain
+01adb7a3-072a-4882-bf2c-ac7dd1d9e667,7420588f-bfa0-4ac5-8f22-47cea01df3cb,Pat 68,NANDNAGAR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,4/9/2021 6:09,4/9/2021 6:16,Low back strain ? PIVD,DICLOFENAC GEL Diclofenac Sodium,NULL,Low back pain
+01adb7a3-072a-4882-bf2c-ac7dd1d9e667,7420588f-bfa0-4ac5-8f22-47cea01df3cb,Pat 68,NANDNAGAR CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,BACK PAIN,4/9/2021 6:09,4/9/2021 6:16,Low back strain ? PIVD,Calcium Citrate,NULL,Low back pain
+00a69687-c95d-42d4-8f2b-28316ef31185,f6f45c35-55a3-405c-b7c0-047a7be9126e,Pat 69,MEHNAGAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK PAIN LEGS PAIN,LEGS PAIN BACK PAIN,11/28/2020 9:22,11/28/2020 9:26,Low back strain with B/l LL radiculopathy,evion lc BD ,NULL,"Low back pain - 20 days
+B/l leg pain - 20 days
+No trauma
+No diff in walking
+Odd pain Rt heel"
+00a69687-c95d-42d4-8f2b-28316ef31185,f6f45c35-55a3-405c-b7c0-047a7be9126e,Pat 69,MEHNAGAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK PAIN LEGS PAIN,LEGS PAIN BACK PAIN,11/28/2020 9:22,11/28/2020 9:26,Low back strain with B/l LL radiculopathy,Zerodol mr 1 bd,NULL,"Low back pain - 20 days
+B/l leg pain - 20 days
+No trauma
+No diff in walking
+Odd pain Rt heel"
+00a69687-c95d-42d4-8f2b-28316ef31185,f6f45c35-55a3-405c-b7c0-047a7be9126e,Pat 69,MEHNAGAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK PAIN LEGS PAIN,LEGS PAIN BACK PAIN,11/28/2020 9:22,11/28/2020 9:26,Low back strain with B/l LL radiculopathy,razo d,NULL,"Low back pain - 20 days
+B/l leg pain - 20 days
+No trauma
+No diff in walking
+Odd pain Rt heel"
+00a69687-c95d-42d4-8f2b-28316ef31185,f6f45c35-55a3-405c-b7c0-047a7be9126e,Pat 69,MEHNAGAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK PAIN LEGS PAIN,LEGS PAIN BACK PAIN,11/28/2020 9:22,11/28/2020 9:26,Low back strain with B/l LL radiculopathy,SHELCAL XT,NULL,"Low back pain - 20 days
+B/l leg pain - 20 days
+No trauma
+No diff in walking
+Odd pain Rt heel"
+00a69687-c95d-42d4-8f2b-28316ef31185,f6f45c35-55a3-405c-b7c0-047a7be9126e,Pat 69,MEHNAGAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK PAIN LEGS PAIN,LEGS PAIN BACK PAIN,11/28/2020 9:22,11/28/2020 9:26,Low back strain with B/l LL radiculopathy,hot fometation,NULL,"Low back pain - 20 days
+B/l leg pain - 20 days
+No trauma
+No diff in walking
+Odd pain Rt heel"
+00a69687-c95d-42d4-8f2b-28316ef31185,f6f45c35-55a3-405c-b7c0-047a7be9126e,Pat 69,MEHNAGAR CHC,Dr.Pranav Mahajan,Orthopaedics,Others,BACK PAIN LEGS PAIN,LEGS PAIN BACK PAIN,11/28/2020 9:22,11/28/2020 9:26,Low back strain with B/l LL radiculopathy,volitra gel,NULL,"Low back pain - 20 days
+B/l leg pain - 20 days
+No trauma
+No diff in walking
+Odd pain Rt heel"
+02ac3723-d9bf-4300-af33-751eaa56e3b1,7db1f177-7da9-4ffd-bfd7-ee6d039ab6bd,Pat 70,BEWA CHC,Dr.Pranav Mahajan,Orthopaedics,Knee pain,,Knee Pain And Waist Pain,10/12/2020 4:53,10/12/2020 4:55,Low back strain with OA knee b/l,razo d,NULL,"Low back pain - 1 month
+B/l knee pain - 1 month"
+02ac3723-d9bf-4300-af33-751eaa56e3b1,7db1f177-7da9-4ffd-bfd7-ee6d039ab6bd,Pat 70,BEWA CHC,Dr.Pranav Mahajan,Orthopaedics,Knee pain,,Knee Pain And Waist Pain,10/12/2020 4:53,10/12/2020 4:55,Low back strain with OA knee b/l,etoshine mr 60mg BD,NULL,"Low back pain - 1 month
+B/l knee pain - 1 month"
+02ac3723-d9bf-4300-af33-751eaa56e3b1,7db1f177-7da9-4ffd-bfd7-ee6d039ab6bd,Pat 70,BEWA CHC,Dr.Pranav Mahajan,Orthopaedics,Knee pain,,Knee Pain And Waist Pain,10/12/2020 4:53,10/12/2020 4:55,Low back strain with OA knee b/l,hot fometation,NULL,"Low back pain - 1 month
+B/l knee pain - 1 month"
+02ac3723-d9bf-4300-af33-751eaa56e3b1,7db1f177-7da9-4ffd-bfd7-ee6d039ab6bd,Pat 70,BEWA CHC,Dr.Pranav Mahajan,Orthopaedics,Knee pain,,Knee Pain And Waist Pain,10/12/2020 4:53,10/12/2020 4:55,Low back strain with OA knee b/l,volitra gel,NULL,"Low back pain - 1 month
+B/l knee pain - 1 month"
+02ac3723-d9bf-4300-af33-751eaa56e3b1,7db1f177-7da9-4ffd-bfd7-ee6d039ab6bd,Pat 70,BEWA CHC,Dr.Pranav Mahajan,Orthopaedics,Knee pain,,Knee Pain And Waist Pain,10/12/2020 4:53,10/12/2020 4:55,Low back strain with OA knee b/l,evion lc BD ,NULL,"Low back pain - 1 month
+B/l knee pain - 1 month"
+02ac3723-d9bf-4300-af33-751eaa56e3b1,7db1f177-7da9-4ffd-bfd7-ee6d039ab6bd,Pat 70,BEWA CHC,Dr.Pranav Mahajan,Orthopaedics,Knee pain,,Knee Pain And Waist Pain,10/12/2020 4:53,10/12/2020 4:55,Low back strain with OA knee b/l,SHELCAL XT,NULL,"Low back pain - 1 month
+B/l knee pain - 1 month"
+01354268-1f1b-48a8-a469-bade6a9680f2,7ad038fc-6729-4c5f-8cbe-f301e75a0af6,Pat 71,GAIDAS BUJURG CHC,Dr.Meenal Parmar,Obstetrics & Gynaecology,Back pain,,p/v blading 4 month,11/13/2020 7:02,11/13/2020 9:19,Low back strain with pregnancy,hot fometation,NULL,"Low back pain - 15 days
+H/o pregnancy 4 months"
+01354268-1f1b-48a8-a469-bade6a9680f2,7ad038fc-6729-4c5f-8cbe-f301e75a0af6,Pat 71,GAIDAS BUJURG CHC,Dr.Meenal Parmar,Obstetrics & Gynaecology,Back pain,,p/v blading 4 month,11/13/2020 7:02,11/13/2020 9:19,Low back strain with pregnancy,calpol 650 1bd,NULL,"Low back pain - 15 days
+H/o pregnancy 4 months"
+01354268-1f1b-48a8-a469-bade6a9680f2,7ad038fc-6729-4c5f-8cbe-f301e75a0af6,Pat 71,GAIDAS BUJURG CHC,Dr.Meenal Parmar,Obstetrics & Gynaecology,Back pain,,p/v blading 4 month,11/13/2020 7:02,11/13/2020 9:19,Low back strain with pregnancy,volitra gel,NULL,"Low back pain - 15 days
+H/o pregnancy 4 months"
+01354268-1f1b-48a8-a469-bade6a9680f2,7ad038fc-6729-4c5f-8cbe-f301e75a0af6,Pat 71,GAIDAS BUJURG CHC,Dr.Meenal Parmar,Obstetrics & Gynaecology,Back pain,,p/v blading 4 month,11/13/2020 7:02,11/13/2020 9:19,Low back strain with pregnancy,shelcal 500mg OD,NULL,"Low back pain - 15 days
+H/o pregnancy 4 months"
+01354268-1f1b-48a8-a469-bade6a9680f2,7ad038fc-6729-4c5f-8cbe-f301e75a0af6,Pat 71,GAIDAS BUJURG CHC,Dr.Sheetal Mahajan,Obstetrics & Gynaecology,Back pain,,p/v blading 4 month,11/13/2020 7:02,11/13/2020 9:19,Low back strain with pregnancy,hot fometation,NULL,"Low back pain - 15 days
+H/o pregnancy 4 months"
+01354268-1f1b-48a8-a469-bade6a9680f2,7ad038fc-6729-4c5f-8cbe-f301e75a0af6,Pat 71,GAIDAS BUJURG CHC,Dr.Sheetal Mahajan,Obstetrics & Gynaecology,Back pain,,p/v blading 4 month,11/13/2020 7:02,11/13/2020 9:19,Low back strain with pregnancy,calpol 650 1bd,NULL,"Low back pain - 15 days
+H/o pregnancy 4 months"
+01354268-1f1b-48a8-a469-bade6a9680f2,7ad038fc-6729-4c5f-8cbe-f301e75a0af6,Pat 71,GAIDAS BUJURG CHC,Dr.Sheetal Mahajan,Obstetrics & Gynaecology,Back pain,,p/v blading 4 month,11/13/2020 7:02,11/13/2020 9:19,Low back strain with pregnancy,volitra gel,NULL,"Low back pain - 15 days
+H/o pregnancy 4 months"
+01354268-1f1b-48a8-a469-bade6a9680f2,7ad038fc-6729-4c5f-8cbe-f301e75a0af6,Pat 71,GAIDAS BUJURG CHC,Dr.Sheetal Mahajan,Obstetrics & Gynaecology,Back pain,,p/v blading 4 month,11/13/2020 7:02,11/13/2020 9:19,Low back strain with pregnancy,shelcal 500mg OD,NULL,"Low back pain - 15 days
+H/o pregnancy 4 months"
+01354268-1f1b-48a8-a469-bade6a9680f2,7ad038fc-6729-4c5f-8cbe-f301e75a0af6,Pat 71,GAIDAS BUJURG CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,p/v blading 4 month,11/13/2020 7:02,11/13/2020 9:19,Low back strain with pregnancy,hot fometation,NULL,"Low back pain - 15 days
+H/o pregnancy 4 months"
+01354268-1f1b-48a8-a469-bade6a9680f2,7ad038fc-6729-4c5f-8cbe-f301e75a0af6,Pat 71,GAIDAS BUJURG CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,p/v blading 4 month,11/13/2020 7:02,11/13/2020 9:19,Low back strain with pregnancy,calpol 650 1bd,NULL,"Low back pain - 15 days
+H/o pregnancy 4 months"
+01354268-1f1b-48a8-a469-bade6a9680f2,7ad038fc-6729-4c5f-8cbe-f301e75a0af6,Pat 71,GAIDAS BUJURG CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,p/v blading 4 month,11/13/2020 7:02,11/13/2020 9:19,Low back strain with pregnancy,volitra gel,NULL,"Low back pain - 15 days
+H/o pregnancy 4 months"
+01354268-1f1b-48a8-a469-bade6a9680f2,7ad038fc-6729-4c5f-8cbe-f301e75a0af6,Pat 71,GAIDAS BUJURG CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,p/v blading 4 month,11/13/2020 7:02,11/13/2020 9:19,Low back strain with pregnancy,shelcal 500mg OD,NULL,"Low back pain - 15 days
+H/o pregnancy 4 months"
+02ddfa7a-cfe2-4265-876f-67f4a1c37605,65fef4d7-86d5-4713-9c7c-cfb457442aac,Pat 72,NATHNAGAR CHC,Dr.Pranav Mahajan,Orthopaedics,Neck pain,,Neck pain,9/30/2020 4:58,9/30/2020 6:16,Low neck muscle spasm,volitra gel,NULL,"Low neck pain - 7 days
+Pain started on waking up"
+02ddfa7a-cfe2-4265-876f-67f4a1c37605,65fef4d7-86d5-4713-9c7c-cfb457442aac,Pat 72,NATHNAGAR CHC,Dr.Pranav Mahajan,Orthopaedics,Neck pain,,Neck pain,9/30/2020 4:58,9/30/2020 6:16,Low neck muscle spasm,razo d,NULL,"Low neck pain - 7 days
+Pain started on waking up"
+02ddfa7a-cfe2-4265-876f-67f4a1c37605,65fef4d7-86d5-4713-9c7c-cfb457442aac,Pat 72,NATHNAGAR CHC,Dr.Pranav Mahajan,Orthopaedics,Neck pain,,Neck pain,9/30/2020 4:58,9/30/2020 6:16,Low neck muscle spasm,ZERODOL MR,NULL,"Low neck pain - 7 days
+Pain started on waking up"
+02ddfa7a-cfe2-4265-876f-67f4a1c37605,65fef4d7-86d5-4713-9c7c-cfb457442aac,Pat 72,NATHNAGAR CHC,Dr.Pranav Mahajan,Orthopaedics,Neck pain,,Neck pain,9/30/2020 4:58,9/30/2020 6:16,Low neck muscle spasm,HOT FOMENTATION,NULL,"Low neck pain - 7 days
+Pain started on waking up"
+02ddfa7a-cfe2-4265-876f-67f4a1c37605,65fef4d7-86d5-4713-9c7c-cfb457442aac,Pat 72,NATHNAGAR CHC,Dr.Pranav Mahajan,Orthopaedics,Neck pain,,Neck pain,9/30/2020 4:58,9/30/2020 6:16,Low neck muscle spasm,SHELCAL XT,NULL,"Low neck pain - 7 days
+Pain started on waking up"
+03e210f4-5edd-4b15-b6bc-fb52bce54726,2f354c41-e05b-4d3e-9ffd-e73b7c094f12,Pat 73,RUDHALI CHC,Dr.Pranav Mahajan,Orthopaedics,Others,,spinal pain,9/16/2020 9:22,9/16/2020 9:24,Lower back muscle spasm,ZERODOL MR,NULL,"Pain lower back - 10-15 days
+No trauma"
+03e210f4-5edd-4b15-b6bc-fb52bce54726,2f354c41-e05b-4d3e-9ffd-e73b7c094f12,Pat 73,RUDHALI CHC,Dr.Pranav Mahajan,Orthopaedics,Others,,spinal pain,9/16/2020 9:22,9/16/2020 9:24,Lower back muscle spasm,shelcal 500mg OD,NULL,"Pain lower back - 10-15 days
+No trauma"
+03e210f4-5edd-4b15-b6bc-fb52bce54726,2f354c41-e05b-4d3e-9ffd-e73b7c094f12,Pat 73,RUDHALI CHC,Dr.Pranav Mahajan,Orthopaedics,Others,,spinal pain,9/16/2020 9:22,9/16/2020 9:24,Lower back muscle spasm,HOT FOMENTATION,NULL,"Pain lower back - 10-15 days
+No trauma"
+03e210f4-5edd-4b15-b6bc-fb52bce54726,2f354c41-e05b-4d3e-9ffd-e73b7c094f12,Pat 73,RUDHALI CHC,Dr.Pranav Mahajan,Orthopaedics,Others,,spinal pain,9/16/2020 9:22,9/16/2020 9:24,Lower back muscle spasm,evion lc BD ,NULL,"Pain lower back - 10-15 days
+No trauma"
+03e210f4-5edd-4b15-b6bc-fb52bce54726,2f354c41-e05b-4d3e-9ffd-e73b7c094f12,Pat 73,RUDHALI CHC,Dr.Pranav Mahajan,Orthopaedics,Others,,spinal pain,9/16/2020 9:22,9/16/2020 9:24,Lower back muscle spasm,razo d,NULL,"Pain lower back - 10-15 days
+No trauma"
+03e210f4-5edd-4b15-b6bc-fb52bce54726,2f354c41-e05b-4d3e-9ffd-e73b7c094f12,Pat 73,RUDHALI CHC,Dr.Pranav Mahajan,Orthopaedics,Others,,spinal pain,9/16/2020 9:22,9/16/2020 9:24,Lower back muscle spasm,volitra gel,NULL,"Pain lower back - 10-15 days
+No trauma"
+03e5d28e-5ee2-4c26-aef1-0a849824570b,7f0b3856-4782-454f-b500-424deafd77b3,Pat 74,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back pain  ,9/18/2020 6:26,9/18/2020 6:29,Lower back muscle spasm,ZERODOL MR,NULL,"Low back pain - 7 days
+No h/o trauma
+No radiculopathy"
+03e5d28e-5ee2-4c26-aef1-0a849824570b,7f0b3856-4782-454f-b500-424deafd77b3,Pat 74,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back pain  ,9/18/2020 6:26,9/18/2020 6:29,Lower back muscle spasm,HOT FOMENTATION,NULL,"Low back pain - 7 days
+No h/o trauma
+No radiculopathy"
+03e5d28e-5ee2-4c26-aef1-0a849824570b,7f0b3856-4782-454f-b500-424deafd77b3,Pat 74,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back pain  ,9/18/2020 6:26,9/18/2020 6:29,Lower back muscle spasm,volitra gel,NULL,"Low back pain - 7 days
+No h/o trauma
+No radiculopathy"
+03e5d28e-5ee2-4c26-aef1-0a849824570b,7f0b3856-4782-454f-b500-424deafd77b3,Pat 74,BARHAJ CHC,Dr.Pranav Mahajan,Orthopaedics,Back pain,,Back pain  ,9/18/2020 6:26,9/18/2020 6:29,Lower back muscle spasm,evion lc BD ,NULL,"Low back pain - 7 days
+No h/o trauma
+No radiculopathy"
